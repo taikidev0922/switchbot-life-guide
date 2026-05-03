@@ -1,0 +1,1838 @@
+[
+  {
+    "title": "Acemate  テニスロボット専用バッテリー",
+    "handle": "acemate-battery",
+    "productUrl": "https://www.switchbot.jp/products/acemate-battery",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Acemate-_1x_96abf6d6-ace3-4ec2-ac50-5789c31e798b.webp?v=1770348304",
+    "imageAlt": "Acemate  テニスロボット専用バッテリー",
+    "category": "bot",
+    "vendor": "SwitchBot (スイッチボット)"
+  },
+  {
+    "title": "Acemate テニスロボット",
+    "handle": "acemate-tennis-robot",
+    "productUrl": "https://www.switchbot.jp/products/acemate-tennis-robot",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Acemate.webp?v=1769672286",
+    "imageAlt": "Acemate テニスロボット",
+    "category": "bot",
+    "vendor": "SwitchBot (スイッチボット)"
+  },
+  {
+    "title": "SwitchBot AIアートキャンバス",
+    "handle": "switchbot-ai-art-frame",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-ai-art-frame",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/AI_Art_Frame_JP__1000x1000_13.3in_1.5x.webp?v=1772005252",
+    "imageAlt": "SwitchBot AIアートキャンバス",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot GaN 65W 急速充電器",
+    "handle": "switchbot-65ｗ-gan-charger",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-65ｗ-gan-charger",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/65W_GaN_Charger_JP_Amazon_Images_00_3x_3.webp?v=1727173529",
+    "imageAlt": "SwitchBot GaN 65W 急速充電器",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot KATAフレンズ",
+    "handle": "katafriends",
+    "productUrl": "https://www.switchbot.jp/products/katafriends",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Noa-4_3x_a7c7d66d-73a0-4c2a-956d-cde912e3b935.webp?v=1769408959",
+    "imageAlt": "SwitchBot KATAフレンズ",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot KATAフレンズあんしんプラン（買い切り専用）",
+    "handle": "switchbot-katafriends-service-full-cover",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-katafriends-service-full-cover",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/3x_2c241023-9749-4a8d-9010-b1ad8cc227d0.webp?v=1769409018",
+    "imageAlt": "SwitchBot KATAフレンズあんしんプラン（買い切り専用）",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot KATAフレンズくらしプラン",
+    "handle": "switchbot-katafriends-service",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-katafriends-service",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/3x_6d9a49d9-aa81-4840-92ef-f0d8cea76467.webp?v=1769409018",
+    "imageAlt": "SwitchBot KATAフレンズくらしプラン",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot KATAフレンズくらし買い切りプラン",
+    "handle": "switchbot-katafriends-buyout-service",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-katafriends-buyout-service",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/3x_a2350f66-b183-4fed-8354-be95ed130cd6.webp?v=1769409018",
+    "imageAlt": "SwitchBot KATAフレンズくらし買い切りプラン",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot KATAモバイルバッテリー",
+    "handle": "switchbot-kata-powerbank",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-kata-powerbank",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/0ba241a6407484577d8f6d20816deffd.webp?v=1712547774",
+    "imageAlt": "SwitchBot KATAモバイルバッテリー",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot インターネットにつながらなくなったら開けるセット",
+    "handle": "switchbot-reset-set",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-reset-set",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Plug_mini-JP-01.webp?v=1720693211",
+    "imageAlt": "SwitchBot インターネットにつながらなくなったら開けるセット",
+    "category": "bot",
+    "vendor": "SwitchBot (スイッチボット)"
+  },
+  {
+    "title": "SwitchBot エントランスから完全キーレスセット",
+    "handle": "complete-keyless-living-kit-from-entrance",
+    "productUrl": "https://www.switchbot.jp/products/complete-keyless-living-kit-from-entrance",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Lock_Pro_Kit_Hub_2_Bot.webp?v=1732089199",
+    "imageAlt": "SwitchBot エントランスから完全キーレスセット",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot カード",
+    "handle": "switchbot-card",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-card",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbotkado-switchbotsuitsuchibotsuto-3mei-ru-ri-682966.webp?v=1659619014",
+    "imageAlt": "SwitchBot カード",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot キャンドルウォーマー",
+    "handle": "switchbot-candle-warmer-lamp",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-candle-warmer-lamp",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/CandleWarmerLamp_EU_Amazon_Images_1600x1600_00_2x_1.webp?v=1761122905",
+    "imageAlt": "SwitchBot キャンドルウォーマー",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ショッピングバッグ",
+    "handle": "switchbot-shopping-bag",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-shopping-bag",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/20221206-182515.png?v=1670322376",
+    "imageAlt": "SwitchBot ショッピングバッグ",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot スマートサーキュレーター",
+    "handle": "switchbot-smart-circulator-fan",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-smart-circulator-fan",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/20240912-231117.jpg?v=1743144222",
+    "imageAlt": "SwitchBot スマートサーキュレーター",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot スマートサーキュレーター（スタンド型）",
+    "handle": "switchbot-standing-circulator-fan",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-standing-circulator-fan",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Standing_Circulator_Fan_3x_2.webp?v=1773299128",
+    "imageAlt": "SwitchBot スマートサーキュレーター（スタンド型）",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot スマートスピーカーセット",
+    "handle": "switchbot-ehco-set",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-ehco-set",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Echo_Dot_4_2_1.webp?v=1720688362",
+    "imageAlt": "SwitchBot スマートスピーカーセット",
+    "category": "bot",
+    "vendor": "SwitchBot (スイッチボット)"
+  },
+  {
+    "title": "SwitchBot スマートデイリーステーション",
+    "handle": "switchbot-weather-station",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-weather-station",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Weather_Station_JP_Amazon_Images_1600x1600_00_3x_3.webp?v=1775559256",
+    "imageAlt": "SwitchBot スマートデイリーステーション",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot スマートテレビドアホン",
+    "handle": "switchbot-smart-video-doorbell",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-smart-video-doorbell",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/VideoDoorbell_JP_Amazon_Images_1600x2000_00_2x_9f279b34-4233-4154-857e-c31ba7cd839b.webp?v=1774411774",
+    "imageAlt": "SwitchBot スマートテレビドアホン",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot スマートテレビドアホン専用ソーラーパネル",
+    "handle": "switchbot-solar-panel-for-doorbell",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-solar-panel-for-doorbell",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/1600x1600-02.webp?v=1752138465",
+    "imageAlt": "SwitchBot スマートテレビドアホン専用ソーラーパネル",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot スマートトラッカーカード",
+    "handle": "switchbot-wallet-finder-card",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-wallet-finder-card",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Wallet_Finder_Card_Global_EN_Amazon_Images_01_V2_1.webp?v=1720605615",
+    "imageAlt": "SwitchBot スマートトラッカーカード",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot スマート加湿器",
+    "handle": "switchbot-smart-humidifier",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-smart-humidifier",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbotsumatojia-shi-qi-switchbot-1ge-153825.jpg?v=1703831251",
+    "imageAlt": "SwitchBot スマート加湿器",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot スマート加湿器交換用フィルター",
+    "handle": "switchbot-smart-humidifier-filter",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-smart-humidifier-filter",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/20231129-142641_1.webp?v=1701239489",
+    "imageAlt": "SwitchBot スマート加湿器交換用フィルター",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot スマート空気清浄セット",
+    "handle": "switchbot-air-purifier-table-set",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-air-purifier-table-set",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Air_Purifier_Table_3x_d2903196-44dc-4a54-93a7-e0a296074ae2.webp?v=1743143486",
+    "imageAlt": "SwitchBot スマート空気清浄セット",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ソックス",
+    "handle": "switchbot-socks",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-socks",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/11600x1600.png?v=1670494924",
+    "imageAlt": "SwitchBot ソックス",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot タグ",
+    "handle": "switchbot-nfc-tag",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-nfc-tag",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbottagu-switchbotsuitsuchibotsuto-3ge-setsuto-655155.jpg?v=1698820761",
+    "imageAlt": "SwitchBot タグ",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ボタン制御セット",
+    "handle": "bot-combo",
+    "productUrl": "https://www.switchbot.jp/products/bot-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Hub2_1_700x_9eb7b8db-022b-4384-8402-5ef5bbb2e4f9.webp?v=1705917365",
+    "imageAlt": "SwitchBot ボタン制御セット",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ボット",
+    "handle": "switchbot-bot",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-bot",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/SwitchBot_Bot_Rechargeable_US_Amazon_Images_1600x1600_00_2x-10.webp?v=1771990763",
+    "imageAlt": "SwitchBot ボット",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot メッセージカード",
+    "handle": "switchbot-message-card",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-message-card",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/1600X1600-1_2x_9dfda5cf-afbc-43b0-8375-58db607a54f5.webp?v=1752736979",
+    "imageAlt": "SwitchBot メッセージカード",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot リチウム電池3V(4本) CR2 ボット用",
+    "handle": "cr2-4p",
+    "productUrl": "https://www.switchbot.jp/products/cr2-4p",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/botbattery.webp?v=1751596418",
+    "imageAlt": "SwitchBot リチウム電池3V(4本) CR2 ボット用",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot リモートボタン",
+    "handle": "switchbot-remote",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-remote",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbotrimotobotan-switchbot-1ge-577072.jpg?v=1645086025",
+    "imageAlt": "SwitchBot リモートボタン",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot リレースイッチ1",
+    "handle": "switchbot-relay-switch-1",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-relay-switch-1",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/2545_2x_f54b4a7b-f98d-426e-be0d-eb06b119d836.webp?v=1773307972",
+    "imageAlt": "SwitchBot リレースイッチ1",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロールスクリーン",
+    "handle": "switchbot-roller-shade",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-roller-shade",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/rollershade_2x_1.webp?v=1732181582",
+    "imageAlt": "SwitchBot ロールスクリーン",
+    "category": "bot",
+    "vendor": "SwitchBot (スイッチボット)"
+  },
+  {
+    "title": "SwitchBot ロールスクリーン専用ソーラーパネル",
+    "handle": "switchbot-roller-shade-solar",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-roller-shade-solar",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/JP_Amazon_Images_1600x1600_00_V1_1x_1.webp?v=1756285261",
+    "imageAlt": "SwitchBot ロールスクリーン専用ソーラーパネル",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 遠隔操作セット",
+    "handle": "botcombo",
+    "productUrl": "https://www.switchbot.jp/products/botcombo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbotyuan-ge-cao-zuo-setsuto-switchbotsuitsuchibotsuto-458717.jpg?v=1699860662",
+    "imageAlt": "SwitchBot 遠隔操作セット",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 化粧プレート（ドアホン取替用）",
+    "handle": "switchbot-video-doorbell-cover-panel",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-video-doorbell-cover-panel",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/2x_f85cdff8-f88a-4881-8159-6dfa3e52b842.webp?v=1748399144",
+    "imageAlt": "SwitchBot 化粧プレート（ドアホン取替用）",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 家庭用防犯対策セット",
+    "handle": "switchbot-pan-tilt-cam-combo",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-pan-tilt-cam-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/1_c4a67291-f460-481b-bf69-8a75ace864b0.webp?v=1715928571",
+    "imageAlt": "SwitchBot 家庭用防犯対策セット",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 学習リモコン",
+    "handle": "switchbot-universal-remote",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-universal-remote",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/UniversalRemote-JP_1x_b1690aeb-71fa-4a7b-aada-71029f6dadd8.png?v=1714120299",
+    "imageAlt": "SwitchBot 学習リモコン",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 学習リモコンセット",
+    "handle": "switchbot-universal-remote-combo",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-universal-remote-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/UR_Hub2_1x_673fc7cd-1ed5-45c3-864c-b6ab2fb53d24.png?v=1714026668",
+    "imageAlt": "SwitchBot 学習リモコンセット",
+    "category": "bot",
+    "vendor": "SwitchBot (スイッチボット)"
+  },
+  {
+    "title": "SwitchBot 気化式加湿器",
+    "handle": "switchbot-evaporative-humidifier",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-evaporative-humidifier",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Evaporative_Humidifer-JP_1x_7e16f621-54bc-48ac-91b3-b977136eb608.png?v=1766556841",
+    "imageAlt": "SwitchBot 気化式加湿器",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 気化式加湿器 Plus",
+    "handle": "switchbot-evaporative-humidifier-plus",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-evaporative-humidifier-plus",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/1_509af90c-92eb-44ec-98b8-0ffe3f5d9118.webp?v=1766568353",
+    "imageAlt": "SwitchBot 気化式加湿器 Plus",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 気化式加湿器交換用加湿フィルター",
+    "handle": "evaporative-humidifier-filter",
+    "productUrl": "https://www.switchbot.jp/products/evaporative-humidifier-filter",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/EvaporativeHumidiferAccessories_JPDTC_Filter_1x_d34c0aea-cd74-4b77-bc0a-9dce1e111d8c.png?v=1729484035",
+    "imageAlt": "SwitchBot 気化式加湿器交換用加湿フィルター",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 気化式加湿器交換用抗菌アタッチメント（二個入り）",
+    "handle": "evaporative-humidifier-antibacterial-attachment",
+    "productUrl": "https://www.switchbot.jp/products/evaporative-humidifier-antibacterial-attachment",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/EvaporativeHumidiferAccessories_JPDTC_Antibacterialbox_1x_bfff10f8-5002-40c4-a3a2-73f47a7895eb.png?v=1729484267",
+    "imageAlt": "SwitchBot 気化式加湿器交換用抗菌アタッチメント（二個入り）",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 空気清浄機",
+    "handle": "switchbot-air-purifier",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-air-purifier",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Air-Purifier-_-_--_-20241105_2x_f7cd0a1f-0830-4978-83e7-ab254d7ced4f.png?v=1738918262",
+    "imageAlt": "SwitchBot 空気清浄機",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 空気清浄機Table",
+    "handle": "switchbot-air-purifier-table",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-air-purifier-table",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Air_Purifier_Table_JP_Amazon_Images_1600x1600_00_V1_1.5x_1.webp?v=1773307364",
+    "imageAlt": "SwitchBot 空気清浄機Table",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 空気清浄機Table JSF EDITION",
+    "handle": "switchbot-air-purifier-table-jsf-edition",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-air-purifier-table-jsf-edition",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/JSF_1x_2.webp?v=1766657558",
+    "imageAlt": "SwitchBot 空気清浄機Table JSF EDITION",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 空気清浄機Table（ウォールナット）",
+    "handle": "switchbot-air-purifier-table-walnut",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-air-purifier-table-walnut",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/2x_2_5f82af41-4a26-4fe0-b204-cf4eda239de6.webp?v=1762396903",
+    "imageAlt": "SwitchBot 空気清浄機Table（ウォールナット）",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 空気清浄機Table（ナチュラル）",
+    "handle": "switchbot-air-purifier-table-wood",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-air-purifier-table-wood",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/1.5x_c2f4401e-ce56-45b1-9a8b-a05f9530f300.webp?v=1762311079",
+    "imageAlt": "SwitchBot 空気清浄機Table（ナチュラル）",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 空気清浄機交換用のアクセサリーセット",
+    "handle": "filters-for-air-purifier",
+    "productUrl": "https://www.switchbot.jp/products/filters-for-air-purifier",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/2_1x_d5b69e2d-1447-482f-b01c-e2d90b1224d3.webp?v=1735625225",
+    "imageAlt": "SwitchBot 空気清浄機交換用のアクセサリーセット",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 省エネ・スターターセット",
+    "handle": "energy-saving-starter-combo",
+    "productUrl": "https://www.switchbot.jp/products/energy-saving-starter-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/bot_w_2_hub_mini_remote_2x_4d8aee6d-3489-4a98-93ab-96c60e1c6d34.webp?v=1752561972",
+    "imageAlt": "SwitchBot 省エネ・スターターセット",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 入退室・安心セット",
+    "handle": "entry-and-exit-security-combo",
+    "productUrl": "https://www.switchbot.jp/products/entry-and-exit-security-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Lockb_KeypadTouch_hubminiWmatter_2x_f5dd6532-b3f7-466d-be71-cfe33cad68da.webp?v=1752565636",
+    "imageAlt": "SwitchBot 入退室・安心セット",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 防犯ブザー",
+    "handle": "switchbot-safety-alarm",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-safety-alarm",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/29_3ba10052-1d91-4362-a8e9-827bd43c3a2b.webp?v=1751446912",
+    "imageAlt": "SwitchBot 防犯ブザー",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBotスクイーズおもちゃ「KATA」",
+    "handle": "switchbot-kata",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-kata",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/d4f70b20ae08baa91175811c4f952f6f.png?v=1687848690",
+    "imageAlt": "SwitchBotスクイーズおもちゃ「KATA」",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot公式サイト限定福袋〔5点入り〕",
+    "handle": "switchbot公式サイト限定福袋",
+    "productUrl": "https://www.switchbot.jp/products/switchbot公式サイト限定福袋",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbotgong-shi-saitoxian-ding-fu-dai-5dian-ru-ri-switchbotsuitsuchibotsuto-851364.jpg?v=1645085885",
+    "imageAlt": "SwitchBot公式サイト限定福袋〔5点入り〕",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot公式有料5年延長保証サービス",
+    "handle": "extended-warranty-service",
+    "productUrl": "https://www.switchbot.jp/products/extended-warranty-service",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/2891_1.5x.webp?v=1776674126",
+    "imageAlt": "SwitchBot公式有料5年延長保証サービス",
+    "category": "bot",
+    "vendor": "SwitchBot (スイッチボット)"
+  },
+  {
+    "title": "アフターサービス専用リンク 送料",
+    "handle": "switchbot-shipping-fee",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-shipping-fee",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/switchbot-shipping-fee-no-need-to-add-to-cart-607152.jpg?v=1704876317",
+    "imageAlt": "アフターサービス専用リンク 送料",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "無料プレゼント｜SwitchBot カード 100%OFF",
+    "handle": "switchbot-card-sca_clone_freegift",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-card-sca_clone_freegift",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/switchbotkado-switchbotsuitsuchibotsuto-3mei-ru-ri-682966.webp?v=1775577534",
+    "imageAlt": "無料プレゼント｜SwitchBot カード 100%OFF",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "無料プレゼント｜SwitchBot 公式有料5年延長保証サービス 100%OFF",
+    "handle": "extended-warranty-service-sca_clone_freegift",
+    "productUrl": "https://www.switchbot.jp/products/extended-warranty-service-sca_clone_freegift",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/2905_2x_92bc07d7-528b-4170-b2e7-1166c3953255.webp?v=1776674515",
+    "imageAlt": "無料プレゼント｜SwitchBot 公式有料5年延長保証サービス 100%OFF",
+    "category": "bot",
+    "vendor": "SwitchBot (スイッチボット)"
+  },
+  {
+    "title": "SwitchBot カメラ専用microSDカード",
+    "handle": "switchbot-camera-microsd-card",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-camera-microsd-card",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/20260209-190632_2.png?v=1770635372",
+    "imageAlt": "SwitchBot カメラ専用microSDカード",
+    "category": "camera",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ソーラー屋外用防犯カメラセット",
+    "handle": "switchbot-solar-outdoor-security-camera-combo",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-solar-outdoor-security-camera-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/712_6d9ad1f4-0e7f-4fd9-91ea-f172ad0e95de.webp?v=1761560640",
+    "imageAlt": "SwitchBot ソーラー屋外用防犯カメラセット",
+    "category": "camera",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 雨守りアイガードセット",
+    "handle": "water-leak-detector-camera-combo",
+    "productUrl": "https://www.switchbot.jp/products/water-leak-detector-camera-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/2884.webp?v=1762918426",
+    "imageAlt": "SwitchBot 雨守りアイガードセット",
+    "category": "camera",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 屋外カメラ",
+    "handle": "switchbot-outdoor-spotlight-cam",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-outdoor-spotlight-cam",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbotwu-wai-kamera-switchbotsuitsuchibotsuto-508354.jpg?v=1698820907",
+    "imageAlt": "SwitchBot 屋外カメラ",
+    "category": "camera",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 屋外カメラ3MP",
+    "handle": "switchbot-outdoor-spotlight-cam-3mp",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-outdoor-spotlight-cam-3mp",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/2898.webp?v=1764844556",
+    "imageAlt": "SwitchBot 屋外カメラ3MP",
+    "category": "camera",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 屋外カメラ専用  取付金具",
+    "handle": "switchbot-outdoor-spotlight-cam-adapter",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-outdoor-spotlight-cam-adapter",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/00_2x_7fa844a2-138b-43f0-bf34-403cf0e1f795.webp?v=1745304545",
+    "imageAlt": "SwitchBot 屋外カメラ専用  取付金具",
+    "category": "camera",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 屋外カメラ専用ソーラーパネル",
+    "handle": "switchbot-solar-panel-for-outdoors",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-solar-panel-for-outdoors",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/1600x1600-01.jpg?v=1689933223",
+    "imageAlt": "SwitchBot 屋外カメラ専用ソーラーパネル",
+    "category": "camera",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 屋内カメラ",
+    "handle": "switchbot-indoor-cam",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-indoor-cam",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbotwu-nei-kamera-switchbotsuitsuchibotsuto-1ge-918227.jpg?v=1645085019",
+    "imageAlt": "SwitchBot 屋内カメラ",
+    "category": "camera",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 屋内外対応防犯カメラセット",
+    "handle": "indoor-outdoor-security-camera-set",
+    "productUrl": "https://www.switchbot.jp/products/indoor-outdoor-security-camera-set",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/707_4.webp?v=1715162495",
+    "imageAlt": "SwitchBot 屋内外対応防犯カメラセット",
+    "category": "camera",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 見守りカメラ",
+    "handle": "switchbot-pan-tilt-cam",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-pan-tilt-cam",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbotjian-shou-rikamera-switchbotzhu-shi-hui-she-670147.jpg?v=1698820985",
+    "imageAlt": "SwitchBot 見守りカメラ",
+    "category": "camera",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 見守りカメラ 3MP",
+    "handle": "switchbot-pan-tilt-cam-3mp",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-pan-tilt-cam-3mp",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbotjian-shou-rikamera-3mp-switchbotzhu-shi-hui-she-636125.jpg?v=1666359540",
+    "imageAlt": "SwitchBot 見守りカメラ 3MP",
+    "category": "camera",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 見守りカメラ 3MP にゃんボット",
+    "handle": "switchbot-3mp-cat",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-3mp-cat",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbotjian-shou-rikamera-3mp-niyanbotsuto-switchbotsuitsuchibotsuto-185363.jpg?v=1662570864",
+    "imageAlt": "SwitchBot 見守りカメラ 3MP にゃんボット",
+    "category": "camera",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 見守りカメラ 3MP わんボット",
+    "handle": "switchbot-3mp-dog",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-3mp-dog",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbotjian-shou-rikamera-3mp-wanbotsuto-switchbotsuitsuchibotsuto-322753.jpg?v=1662570999",
+    "imageAlt": "SwitchBot 見守りカメラ 3MP わんボット",
+    "category": "camera",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 見守りカメラPlus  3MP",
+    "handle": "switchbot-pan-tilt-cam-plus-3mp",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-pan-tilt-cam-plus-3mp",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/20240508-104644.jpg?v=1715136484",
+    "imageAlt": "SwitchBot 見守りカメラPlus  3MP",
+    "category": "camera",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 見守りカメラPlus  5MP",
+    "handle": "switchbot-pan-tilt-cam-plus-5mp",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-pan-tilt-cam-plus-5mp",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/18_42ba5690-2bcf-44fd-8023-897acdd6cd55.webp?v=1712903582",
+    "imageAlt": "SwitchBot 見守りカメラPlus  5MP",
+    "category": "camera",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 見守りセット",
+    "handle": "protectcombo",
+    "productUrl": "https://www.switchbot.jp/products/protectcombo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/1_359331e5-7d03-4f51-8a30-063a14b20c52.webp?v=1686908081",
+    "imageAlt": "SwitchBot 見守りセット",
+    "category": "camera",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot カーテン2",
+    "handle": "switchbot-curtain",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-curtain",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbotkaten-switchbot-949690.jpg?v=1698820687",
+    "imageAlt": "SwitchBot カーテン2",
+    "category": "curtain",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot カーテン3",
+    "handle": "switchbot-curtain3",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-curtain3",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/CurtainU3_02_v1_1.jpg?v=1753758964",
+    "imageAlt": "SwitchBot カーテン3",
+    "category": "curtain",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot カーテン3（I型レール）アクセサリー",
+    "handle": "switchbot-curtain3-irail",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-curtain3-irail",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/CurtainI3_03_v1.webp?v=1713421944",
+    "imageAlt": "SwitchBot カーテン3（I型レール）アクセサリー",
+    "category": "curtain",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ソーラーパネル3（カーテン3専用）",
+    "handle": "switchbot-solar-panel3",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-solar-panel3",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/SP-1_1_1_1.webp?v=1692672059",
+    "imageAlt": "SwitchBot ソーラーパネル3（カーテン3専用）",
+    "category": "curtain",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ブラインドポール",
+    "handle": "switchbot-blind-tilt",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-blind-tilt",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/20230111-151335.jpg?v=1673422453",
+    "imageAlt": "SwitchBot ブラインドポール",
+    "category": "curtain",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ブラインドポール制御セット",
+    "handle": "switchbot-blind-tilt-combo",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-blind-tilt-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/1_e70d92f7-faad-488e-9e67-726952eabef7.jpg?v=1688381395",
+    "imageAlt": "SwitchBot ブラインドポール制御セット",
+    "category": "curtain",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 心地良いセット",
+    "handle": "switchbot-curtain-comfortable-set",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-curtain-comfortable-set",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/809_1.5x.webp?v=1772090675",
+    "imageAlt": "SwitchBot 心地良いセット",
+    "category": "curtain",
+    "vendor": "SwitchBot (スイッチボット)"
+  },
+  {
+    "title": "SwitchBot 太陽光発電カーテンセット",
+    "handle": "solar-curtain-combo",
+    "productUrl": "https://www.switchbot.jp/products/solar-curtain-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/51_1_6cfca712-bb51-4a3d-9499-7ea8539d795a.webp?v=1693378729",
+    "imageAlt": "SwitchBot 太陽光発電カーテンセット",
+    "category": "curtain",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 朝目覚めカーテンセット",
+    "handle": "curtain-combo",
+    "productUrl": "https://www.switchbot.jp/products/curtain-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/91.webp?v=1734678417",
+    "imageAlt": "SwitchBot 朝目覚めカーテンセット",
+    "category": "curtain",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot AIハブ",
+    "handle": "switchbot-aihub",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-aihub",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/AI_Hub_Global_Amazon_Images_1600X1600_01_1.5x_1.webp?v=1765539052",
+    "imageAlt": "SwitchBot AIハブ",
+    "category": "hub",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ハブ2",
+    "handle": "switchbot-hub2",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-hub2",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/JP_Hub_2_2x_9a0ec3fb-beee-4124-8957-7de541b7eba2.webp?v=1745810078",
+    "imageAlt": "SwitchBot ハブ2",
+    "category": "hub",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ハブ2 / ハブミニ（Matter）専用Type-Cケーブル",
+    "handle": "switchbot-hub2-type-c-cable",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-hub2-type-c-cable",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Hub2__01_v1_1.webp?v=1689851436",
+    "imageAlt": "SwitchBot ハブ2 / ハブミニ（Matter）専用Type-Cケーブル",
+    "category": "hub",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ハブ3",
+    "handle": "switchbot-hub3",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-hub3",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Hub_3_JP_1600x1600_02_1x_f13df486-6ca8-4398-8f4f-7e9636bfc49f.webp?v=1760694016",
+    "imageAlt": "SwitchBot ハブ3",
+    "category": "hub",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ハブミニ",
+    "handle": "switchbot-hub-mini",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-hub-mini",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/JP_Hub_mini_2x_a99b0529-4ff5-4b12-a8ff-0accca1288e0.webp?v=1745810208",
+    "imageAlt": "SwitchBot ハブミニ",
+    "category": "hub",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ハブミニ 木目調",
+    "handle": "switchbot-hub-mini-wood-grain",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-hub-mini-wood-grain",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Hub_mini_Matter_JP_Amazon_Images_1600x1600_2_1.5x.webp?v=1750934403",
+    "imageAlt": "SwitchBot ハブミニ 木目調",
+    "category": "hub",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ハブミニ(Matter対応)",
+    "handle": "switchbot-hub-mini-matter",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-hub-mini-matter",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/JP_Hub_mini_MSS_2x_b3644507-ffc1-4521-9944-2ffd1f6fb16c.webp?v=1752487769",
+    "imageAlt": "SwitchBot ハブミニ(Matter対応)",
+    "category": "hub",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 遠隔操作ドアロックProセット",
+    "handle": "switchbot-lock-pro-hub2-combo",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-lock-pro-hub2-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/01_3x_d88d49d9-c443-4497-a70e-b00ffac17f8e.webp?v=1757478448",
+    "imageAlt": "SwitchBot 遠隔操作ドアロックProセット",
+    "category": "hub",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 遠隔操作ドアロックセット",
+    "handle": "switchbot-lock-hub2-combo",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-lock-hub2-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/a_1x_a7b408fe-6fd1-4248-a7e5-6d18388f285c.png?v=1761044514",
+    "imageAlt": "SwitchBot 遠隔操作ドアロックセット",
+    "category": "hub",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "無料プレゼント｜SwitchBot ハブ2 / ハブミニ（Matter）専用Type-Cケーブル 100%OFF",
+    "handle": "switchbot-hub2-type-c-cable-sca_clone_freegift_68c3fe372e920",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-hub2-type-c-cable-sca_clone_freegift_68c3fe372e920",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Hub2__01_v1_1_fee7febb-55e9-400a-ad1b-cf8f8bba41db.webp?v=1757675065",
+    "imageAlt": "無料プレゼント｜SwitchBot ハブ2 / ハブミニ（Matter）専用Type-Cケーブル 100%OFF",
+    "category": "hub",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "無料プレゼント｜SwitchBot ハブ2 / ハブミニ（Matter）専用Type-Cケーブル 100%OFF",
+    "handle": "switchbot-hub2-type-c-cable-sca_clone_freegift",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-hub2-type-c-cable-sca_clone_freegift",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Hub2__01_v1_1_50a3d864-1821-464d-88a3-6962435ac93f.webp?v=1756802185",
+    "imageAlt": "無料プレゼント｜SwitchBot ハブ2 / ハブミニ（Matter）専用Type-Cケーブル 100%OFF",
+    "category": "hub",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot RGBICテープライト",
+    "handle": "switchbot-rgbicww-strip-light",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-rgbicww-strip-light",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/RGBICWW_1000x1000_1_2x_1.webp?v=1755860091",
+    "imageAlt": "SwitchBot RGBICテープライト",
+    "category": "lighting",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot RGBICネオンライト",
+    "handle": "switchbot-rgbic-neon-rope-light",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-rgbic-neon-rope-light",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/02_3x_023b02d9-f4e2-4cb2-a45b-0a5b1b3c67f8.webp?v=1766038665",
+    "imageAlt": "SwitchBot RGBICネオンライト",
+    "category": "lighting",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot RGBICフロアライト",
+    "handle": "switchbot-rgbicww-floor-lamp",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-rgbicww-floor-lamp",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/04_2x_1.webp?v=1766048642",
+    "imageAlt": "SwitchBot RGBICフロアライト",
+    "category": "lighting",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot RGBICワイヤーネオンライト",
+    "handle": "switchbot-rgbic-neon-wire-rope-light",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-rgbic-neon-wire-rope-light",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/2x_1_6f2699a3-cc1e-4471-a6ac-0f27d8ae336e.webp?v=1757586474",
+    "imageAlt": "SwitchBot RGBICワイヤーネオンライト",
+    "category": "lighting",
+    "vendor": "SwitchBot (スイッチボット)"
+  },
+  {
+    "title": "SwitchBot シーリングライト",
+    "handle": "switchbot-ceiling-light",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-ceiling-light",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/20230705-184824_1_c4fd030f-806d-49cc-9e1c-f0653b6c21b8.webp?v=1698820721",
+    "imageAlt": "SwitchBot シーリングライト",
+    "category": "lighting",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot スマートライトセット",
+    "handle": "switchbot-smart-lighting-combo",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-smart-lighting-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/740_3.webp?v=1727258723",
+    "imageAlt": "SwitchBot スマートライトセット",
+    "category": "lighting",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot スマート電球 E26",
+    "handle": "switchbot-color-bulb",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-color-bulb",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/3JFDLM_8.jpg?v=1670294094",
+    "imageAlt": "SwitchBot スマート電球 E26",
+    "category": "lighting",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot テープライト",
+    "handle": "switchbot-strip-light",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-strip-light",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/LED_Strip_Light_2x_1.png?v=1727258298",
+    "imageAlt": "SwitchBot テープライト",
+    "category": "lighting",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot テープライト2",
+    "handle": "switchbot-strip-light2",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-strip-light2",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/LED_Strip_Light_2_JP__Images_2000x2000_00_V1_5d56b82d-37d2-4034-89a1-5bab96f6defb.webp?v=1727335370",
+    "imageAlt": "SwitchBot テープライト2",
+    "category": "lighting",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot テープライト3",
+    "handle": "switchbot-strip-light3",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-strip-light3",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/6_2x_2.webp?v=1745482164",
+    "imageAlt": "SwitchBot テープライト3",
+    "category": "lighting",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot フロアライト",
+    "handle": "switchbot-floor-lamp",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-floor-lamp",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Floor_Lamp_JP_Amazon_Images_00_2x_1cb4f120-3eba-49f1-aa47-5de7eeedf6f3.webp?v=1747134235",
+    "imageAlt": "SwitchBot フロアライト",
+    "category": "lighting",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ボット用部品 3M両面テープ-4枚入り",
+    "handle": "switchbot-bot-accessories",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-bot-accessories",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbotbotsutoyong-bu-pin-3mliang-mian-tepu-4mei-ru-ri-switchbotsuitsuchibotsuto-120188.jpg?v=1663775567",
+    "imageAlt": "SwitchBot ボット用部品 3M両面テープ-4枚入り",
+    "category": "lighting",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot キーパッド",
+    "handle": "switchbot-keypad",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-keypad",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/1_468391c2-1afd-4e0c-8dfa-c7ada48268fe.jpg?v=1674100532",
+    "imageAlt": "SwitchBot キーパッド",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot キーパッド用部品 3M両面テープ-1枚入り",
+    "handle": "switchbot-keypad-accessories",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-keypad-accessories",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/20230407-175539.jpg?v=1680862435",
+    "imageAlt": "SwitchBot キーパッド用部品 3M両面テープ-1枚入り",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ダブルロックProセット",
+    "handle": "switchbot-2lock-pro-combo",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-2lock-pro-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/17_3x_64b47301-6545-45c6-b2f4-b71fa5f5597d.webp?v=1757477921",
+    "imageAlt": "SwitchBot ダブルロックProセット",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ダブルロックセット",
+    "handle": "switchbot-2lock-combo",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-2lock-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/11_1x_f58c803d-1961-4400-8562-32088ca9034b.png?v=1761043541",
+    "imageAlt": "SwitchBot ダブルロックセット",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ドアロックLite 指紋認証セット",
+    "handle": "switchbot-lock-lite-starter-combo",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-lock-lite-starter-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/LockLite_JP_AmazonImages_1600x1600_0_2x_5.webp?v=1745920100",
+    "imageAlt": "SwitchBot ドアロックLite 指紋認証セット",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ドアロックProセット",
+    "handle": "switchbot-lock-pro-starter-combo",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-lock-pro-starter-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/16_3x_c1c80843-627b-4987-b79f-54e9596df043.webp?v=1757477840",
+    "imageAlt": "SwitchBot ドアロックProセット",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ドアロックUltra 顔認証Proセット",
+    "handle": "switchbot-lock-ultra-vision-pro-combo",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-lock-ultra-vision-pro-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/KVPCombo_JP_AmazonImages_1600x1600_03_1x_91c747ed-0da0-45ca-bd01-3948c8f22c77.webp?v=1765507504",
+    "imageAlt": "SwitchBot ドアロックUltra 顔認証Proセット",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ドアロックUltra 顔認証セット",
+    "handle": "switchbot-lock-ultra-vision-combo",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-lock-ultra-vision-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/112_2x_4.webp?v=1757580640",
+    "imageAlt": "SwitchBot ドアロックUltra 顔認証セット",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ドアロックUltra 指紋認証セット",
+    "handle": "switchbot-lock-ultra-touch-combo",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-lock-ultra-touch-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/58_2x_1.webp?v=1745466777",
+    "imageAlt": "SwitchBot ドアロックUltra 指紋認証セット",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ドアロックセット",
+    "handle": "lock-starter-combo",
+    "productUrl": "https://www.switchbot.jp/products/lock-starter-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/11_1x_d8a2f22a-9037-4fb3-8d32-9d6ff06738cf.png?v=1761044869",
+    "imageAlt": "SwitchBot ドアロックセット",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot リチウム電池3V(4本) CR123A ロック用",
+    "handle": "cr123a-4p",
+    "productUrl": "https://www.switchbot.jp/products/cr123a-4p",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/cr123a_1.webp?v=1768275392",
+    "imageAlt": "SwitchBot リチウム電池3V(4本) CR123A ロック用",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロック",
+    "handle": "switchbot-lock",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-lock",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Lock-_1x_9d282c34-3cff-4b7f-ac8b-b84198b1704b.webp?v=1737688091",
+    "imageAlt": "SwitchBot ロック",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロック Pro",
+    "handle": "switchbot-lock-pro",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-lock-pro",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Lock_Pro-US_JP_1x_9857bb06-dbb6-42b6-99c8-9a092a78f8d3.webp?v=1737688205",
+    "imageAlt": "SwitchBot ロック Pro",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロック Pro 充電式バッテリー",
+    "handle": "switchbot-lock-pro-battery",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-lock-pro-battery",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/b57459acfd1d22c15b79442dedeb50f0_71235a57-1778-4190-abcb-e78656d19145.webp?v=1713841193",
+    "imageAlt": "SwitchBot ロック Pro 充電式バッテリー",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロックLite",
+    "handle": "switchbot-lock-lite",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-lock-lite",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/LockLite_JP_AmazonImages_1600x1600_0_2x_8.webp?v=1745921659",
+    "imageAlt": "SwitchBot ロックLite",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロックPro用部品 3M両面テープ-2枚入り",
+    "handle": "switchbot-3m-sticker-lock-pro",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-3m-sticker-lock-pro",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/LockPro3M_2x_f5d14349-bc5b-43b3-8cff-72edcab0bf12.webp?v=1716889754",
+    "imageAlt": "SwitchBot ロックPro用部品 3M両面テープ-2枚入り",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロックUltra",
+    "handle": "switchbot-lock-ultra",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-lock-ultra",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/59_2x_070b4f90-1856-4257-8850-9535863d628d.webp?v=1745576039",
+    "imageAlt": "SwitchBot ロックUltra",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロックUltra用高さ調節ケース",
+    "handle": "thumb-adapter-for-switchbot-lock-ultra",
+    "productUrl": "https://www.switchbot.jp/products/thumb-adapter-for-switchbot-lock-ultra",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/121_1x_1.webp?v=1754651407",
+    "imageAlt": "SwitchBot ロックUltra用高さ調節ケース",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロックUltra用部品 3M両面テープ 2枚入り",
+    "handle": "switchbot-3m-sticker-lock-ultra",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-3m-sticker-lock-ultra",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/3M-1_1x_ee73a02f-ec75-426d-b78a-e41fc0bec85e.webp?v=1766569943",
+    "imageAlt": "SwitchBot ロックUltra用部品 3M両面テープ 2枚入り",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロックシリーズ用マグネットアクセサリー（5個入り）",
+    "handle": "switchbot-lock-magnet",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-lock-magnet",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Lock_Pro__Amazon_Images_03_JP_1600_1600_V1.webp?v=1718779306",
+    "imageAlt": "SwitchBot ロックシリーズ用マグネットアクセサリー（5個入り）",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロック用特殊サムターンホルダー",
+    "handle": "thumb-adapter-for-switchbot-lock",
+    "productUrl": "https://www.switchbot.jp/products/thumb-adapter-for-switchbot-lock",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbotrotsukuyong-te-shu-samutanhoruda-switchbotsuitsuchibotsuto-miwa-ndr-ndzyong-789110.jpg?v=1653379968",
+    "imageAlt": "SwitchBot ロック用特殊サムターンホルダー",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロック用部品 3M両面テープ-2枚入り",
+    "handle": "switchbot-lock-accessories",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-lock-accessories",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/20241014-181819.webp?v=1729217572",
+    "imageAlt": "SwitchBot ロック用部品 3M両面テープ-2枚入り",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機 K10+/K10+Pro/K10+Pro Combo/K20+Pro/K11+ 交換用お掃除シート(4個セット)",
+    "handle": "switchbot-mopping-pads-k-series",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-mopping-pads-k-series",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/722.webp?v=1716544385",
+    "imageAlt": "SwitchBot ロボット掃除機 K10+/K10+Pro/K10+Pro Combo/K20+Pro/K11+ 交換用お掃除シート(4個セット)",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 顔認証パッド",
+    "handle": "switchbot-keypad-vision",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-keypad-vision",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Keypad_vision_JP_Amazon_Images_1600x1600__2x_1.webp?v=1757581073",
+    "imageAlt": "SwitchBot 顔認証パッド",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 顔認証パッドPro",
+    "handle": "switchbot-keypad-vision-pro",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-keypad-vision-pro",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/KVP_JP_Amazon_Images_1600x1600_00_1x_7b90328a-5e4c-4558-b450-47afe98ea0e1.webp?v=1765508161",
+    "imageAlt": "SwitchBot 顔認証パッドPro",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 顔認証パッドPro専用ソーラーパネル",
+    "handle": "switchbot-solar-panel-for-vision-pro",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-solar-panel-for-vision-pro",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/1600x1600-02.webp?v=1752138465",
+    "imageAlt": "SwitchBot 顔認証パッドPro専用ソーラーパネル",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 指紋認証パッド",
+    "handle": "switchbot-keypad-touch",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-keypad-touch",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/1x_2061a13b-ed1c-4dc1-9ea6-79e3c9699ffb.webp?v=1758096310",
+    "imageAlt": "SwitchBot 指紋認証パッド",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 指紋認証パッドカバー",
+    "handle": "switchbot-keypadtouch-cover",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-keypadtouch-cover",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/keypad_touch_cover.webp?v=1740464217",
+    "imageAlt": "SwitchBot 指紋認証パッドカバー",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot プラグミニ（JP）",
+    "handle": "switchbot-plug-mini",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-plug-mini",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/3396_1x_515460ae-4cf1-4cdd-8b7b-3483e7e72b49.webp?v=1764836422",
+    "imageAlt": "SwitchBot プラグミニ（JP）",
+    "category": "plug",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot プラグミニ（JP） HomeKit対応",
+    "handle": "switchbot-plugmini-homekit",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-plugmini-homekit",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/3396_1x_1.webp?v=1764836593",
+    "imageAlt": "SwitchBot プラグミニ（JP） HomeKit対応",
+    "category": "plug",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot プラグミニセット",
+    "handle": "plug-mini-combo",
+    "productUrl": "https://www.switchbot.jp/products/plug-mini-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbotpuraguminisetsuto-switchbotsuitsuchibotsuto-puraguminirimotobotan-614154.jpg?v=1681446552",
+    "imageAlt": "SwitchBot プラグミニセット",
+    "category": "plug",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot CO2センサー（温湿度計）",
+    "handle": "switchbot-co2-meter",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-co2-meter",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Meter_Pro-White-3D-Blank-01_2x_cf3c453f-4aea-4fc9-b72b-1a4695ce8ac5.webp?v=1774425901",
+    "imageAlt": "SwitchBot CO2センサー（温湿度計）",
+    "category": "sensor",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot センサーライトセット",
+    "handle": "sensor-light-set",
+    "productUrl": "https://www.switchbot.jp/products/sensor-light-set",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/1_9974e7c1-918c-4fca-a4e8-bc87a78ca899.jpg?v=1688381021",
+    "imageAlt": "SwitchBot センサーライトセット",
+    "category": "sensor",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 温湿度管理セット",
+    "handle": "set-meter",
+    "productUrl": "https://www.switchbot.jp/products/set-meter",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbotwen-shi-du-ji-setsuto-switchbotsuitsuchibotsuto-361886.jpg?v=1645085185",
+    "imageAlt": "SwitchBot 温湿度管理セット",
+    "category": "sensor",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 温湿度管理パネル",
+    "handle": "switchbot-climate-panel",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-climate-panel",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Panel_2x_1.webp?v=1758785240",
+    "imageAlt": "SwitchBot 温湿度管理パネル",
+    "category": "sensor",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 温湿度計",
+    "handle": "switchbot-meter",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-meter",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbotwen-shi-du-ji-switchbot-1ge-953309.jpg?v=1645085847",
+    "imageAlt": "SwitchBot 温湿度計",
+    "category": "sensor",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 温湿度計Pro",
+    "handle": "switchbot-meter-pro",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-meter-pro",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/SwitchBot_Pro.webp?v=1725430821",
+    "imageAlt": "SwitchBot 温湿度計Pro",
+    "category": "sensor",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 温湿度計プラス",
+    "handle": "switchbot-meter-plus",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-meter-plus",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbotwen-shi-du-ji-purasu-switchbotzhu-shi-hui-she-1ge-623695.jpg?v=1737687758",
+    "imageAlt": "SwitchBot 温湿度計プラス",
+    "category": "sensor",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 温湿度調節セット",
+    "handle": "humidifier-combo",
+    "productUrl": "https://www.switchbot.jp/products/humidifier-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Evaporative_Humidifier_Meter_2x_fa53676a-abf4-40b7-870b-15d822797522.webp?v=1766559676",
+    "imageAlt": "SwitchBot 温湿度調節セット",
+    "category": "sensor",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 開閉センサー",
+    "handle": "switchbot-contact-sensor",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-contact-sensor",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbotkai-bi-sensa-switchbotsuitsuchibotsuto-1ge-207840.jpg?v=1713498479",
+    "imageAlt": "SwitchBot 開閉センサー",
+    "category": "sensor",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 開閉センサーセット",
+    "handle": "set-contectsensor",
+    "productUrl": "https://www.switchbot.jp/products/set-contectsensor",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbotkai-bi-sensasetsuto-switchbotsuitsuchibotsuto-364416.jpg?v=1645085712",
+    "imageAlt": "SwitchBot 開閉センサーセット",
+    "category": "sensor",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 人感センサー",
+    "handle": "switchbot-motion-sensor",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-motion-sensor",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbotren-gan-sensa-switchbotsuitsuchibotsuto-1ge-726021.jpg?v=1645086327",
+    "imageAlt": "SwitchBot 人感センサー",
+    "category": "sensor",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 人感センサーPro",
+    "handle": "switchbot-presence-sensor",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-presence-sensor",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/03_8bca1653-911f-48b7-833e-118a918c70cf.webp?v=1761289632",
+    "imageAlt": "SwitchBot 人感センサーPro",
+    "category": "sensor",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 人感センサーセット",
+    "handle": "set-motionsensor",
+    "productUrl": "https://www.switchbot.jp/products/set-motionsensor",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbotren-gan-sensasetsuto-switchbotsuitsuchibotsuto-375525.jpg?v=1645085659",
+    "imageAlt": "SwitchBot 人感センサーセット",
+    "category": "sensor",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 水安心ガードセット",
+    "handle": "water-leak-sensor-plug-combo",
+    "productUrl": "https://www.switchbot.jp/products/water-leak-sensor-plug-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/22_1.webp?v=1713259475",
+    "imageAlt": "SwitchBot 水安心ガードセット",
+    "category": "sensor",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 水漏れセンサー",
+    "handle": "switchbot-water-leak-detector",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-water-leak-detector",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/1_2_c1b168db-f702-45a5-b107-b9a0c8bba513.webp?v=1713254779",
+    "imageAlt": "SwitchBot 水漏れセンサー",
+    "category": "sensor",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 水漏れセンサー（コード付き）",
+    "handle": "switchbot-water-leak-with-sensor-cable",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-water-leak-with-sensor-cable",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/6_2.webp?v=1713257777",
+    "imageAlt": "SwitchBot 水漏れセンサー（コード付き）",
+    "category": "sensor",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot 防水温湿度計",
+    "handle": "switchbot-indoor-outdoor-meter",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-indoor-outdoor-meter",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/Outdoorsensor_02_v2.jpg?v=1680510317",
+    "imageAlt": "SwitchBot 防水温湿度計",
+    "category": "sensor",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot  お掃除ロボットS10/S20水交換ステーション",
+    "handle": "water-station-for-s10",
+    "productUrl": "https://www.switchbot.jp/products/water-station-for-s10",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/S10_1x_e60db7f2-20cc-45ab-9a38-786860aaeab0.png?v=1731485382",
+    "imageAlt": "SwitchBot  お掃除ロボットS10/S20水交換ステーション",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot お掃除ロボット S10 サイドブラシ（2個セット） 消耗品 アクセサリー",
+    "handle": "switchbot-side-brush-for-floor-cleaning-robot-s10",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-side-brush-for-floor-cleaning-robot-s10",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/750.webp?v=1721729436",
+    "imageAlt": "SwitchBot お掃除ロボット S10 サイドブラシ（2個セット） 消耗品 アクセサリー",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot お掃除ロボット S10/S20 専用一年分アクセサリー 消耗品セット",
+    "handle": "switchbot-robot-vacuum-s10-s20-accessory",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-robot-vacuum-s10-s20-accessory",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/1_1_62b4d185-2953-449a-b98d-018363ce5e7b.webp?v=1715595834",
+    "imageAlt": "SwitchBot お掃除ロボット S10/S20 専用一年分アクセサリー 消耗品セット",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot お掃除ロボット S20 交換用絡み防止サイドブラシ（2個セット）",
+    "handle": "switchbot-anti-tangle-side-brush-for-s20",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-anti-tangle-side-brush-for-s20",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/S20__2x_ae67eeed-35f3-46f5-857f-173e7e5aff04.webp?v=1755158643",
+    "imageAlt": "SwitchBot お掃除ロボット S20 交換用絡み防止サイドブラシ（2個セット）",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot お掃除ロボットS10",
+    "handle": "switchbot-robot-vacuum-cleaner-s10",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-s10",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/S10.webp?v=1738918622",
+    "imageAlt": "SwitchBot お掃除ロボットS10",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot お掃除ロボットS10/S20 ゴム製メインブラシ（1個） 消耗品 アクセサリー",
+    "handle": "switchbot-rubber-brush-for-floor-cleaning-robot-s10",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-rubber-brush-for-floor-cleaning-robot-s10",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/751.webp?v=1746697614",
+    "imageAlt": "SwitchBot お掃除ロボットS10/S20 ゴム製メインブラシ（1個） 消耗品 アクセサリー",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot お掃除ロボットS10/S20 ローラーモップ(2個セット) 消耗品 アクセサリー",
+    "handle": "switchbot-roller-mop-for-floor-cleaning-robot-s10",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-roller-mop-for-floor-cleaning-robot-s10",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/749.webp?v=1721728451",
+    "imageAlt": "SwitchBot お掃除ロボットS10/S20 ローラーモップ(2個セット) 消耗品 アクセサリー",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot お掃除ロボットS10/S20 汚水関連アクセサリー 消耗品",
+    "handle": "switchbot-waste-water-parts-for-floor-cleaning-robot-s10",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-waste-water-parts-for-floor-cleaning-robot-s10",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/752.webp?v=1721729220",
+    "imageAlt": "SwitchBot お掃除ロボットS10/S20 汚水関連アクセサリー 消耗品",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot お掃除ロボットS10/S20 交換用紙パック(5枚セット) 消耗品 アクセサリー",
+    "handle": "switchbot-dust-bag-for-floor-cleaning-robot-s10-s20",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-dust-bag-for-floor-cleaning-robot-s10-s20",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/748.webp?v=1721703687",
+    "imageAlt": "SwitchBot お掃除ロボットS10/S20 交換用紙パック(5枚セット) 消耗品 アクセサリー",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot お掃除ロボットS10/S20 専用外付け水タンク",
+    "handle": "switchbot-robot-vacuum-cleaner-s10-mizutank",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-s10-mizutank",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/S10_2x_3b34175d-7767-4524-9098-22d58fe98169.png?v=1738998613",
+    "imageAlt": "SwitchBot お掃除ロボットS10/S20 専用外付け水タンク",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot お掃除ロボットS10/S20 防水シート",
+    "handle": "switchbot-robot-vacuum-s10-waterproofing-deaeration-sheet",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-robot-vacuum-s10-waterproofing-deaeration-sheet",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/20250728-122522.webp?v=1753676941",
+    "imageAlt": "SwitchBot お掃除ロボットS10/S20 防水シート",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot お掃除ロボットS10/S20交換用ダストボックス",
+    "handle": "dustbin-for-s10",
+    "productUrl": "https://www.switchbot.jp/products/dustbin-for-s10",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/S10Accessories_JPDTC_dustbox_1x_04dd889c-e7c9-4362-91e7-4df98f7afd84.png?v=1731484574",
+    "imageAlt": "SwitchBot お掃除ロボットS10/S20交換用ダストボックス",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot お掃除ロボットS10/S20交換用ブラシフレーム",
+    "handle": "cover-plate-assembly-for-s10",
+    "productUrl": "https://www.switchbot.jp/products/cover-plate-assembly-for-s10",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/S10Accessories_JPDTC_Brushcover_1x_fd6a4343-b1e1-47de-8fd4-2dfd80bbe413.png?v=1729484459",
+    "imageAlt": "SwitchBot お掃除ロボットS10/S20交換用ブラシフレーム",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot お掃除ロボットS20",
+    "handle": "switchbot-robot-vacuum-cleaner-s20",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-s20",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/1000x1000_S20_2x_c1c16ac0-9354-4a23-ae19-9283713d0463.webp?v=1772765396",
+    "imageAlt": "SwitchBot お掃除ロボットS20",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot マルチタスク家庭用ロボットK20＋Pro",
+    "handle": "switchbot-robot-vacuum-cleaner-k20-pro",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-k20-pro",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/K20_Pro_JP__1000x1000_1_2x_ab0bf455-f0ab-44de-ae37-c135c93b6c47.webp?v=1747195371",
+    "imageAlt": "SwitchBot マルチタスク家庭用ロボットK20＋Pro",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機 K10＋",
+    "handle": "switchbot-robot-vacuum-cleaner-k10",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-k10",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/K10__01_V3_2x_2f0f944c-797c-41c6-a850-97751c037217.png?v=1766460243",
+    "imageAlt": "SwitchBot ロボット掃除機 K10＋",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機 K10＋ (整備済製品)",
+    "handle": "switchbot-robot-vacuum-cleaner-k10-refurbished",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-k10-refurbished",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/08_1.5x_0f681587-755f-44dc-a666-df739f6a3522.webp?v=1766460243",
+    "imageAlt": "SwitchBot ロボット掃除機 K10＋ (整備済製品)",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機 K10+ /S1 Plus（W）交換用紙パック(4枚セット)",
+    "handle": "switchbot-dirt-disposal-bags-k10",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-dirt-disposal-bags-k10",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/721.webp?v=1716544306",
+    "imageAlt": "SwitchBot ロボット掃除機 K10+ /S1 Plus（W）交換用紙パック(4枚セット)",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機 K10＋ JSF EDITION",
+    "handle": "switchbot-robot-vacuum-cleaner-k10-jsf-edition",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-k10-jsf-edition",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/1_1_2f6bf8e8-0ff3-47fd-9b48-9df66a8bf42e.webp?v=1722998523",
+    "imageAlt": "SwitchBot ロボット掃除機 K10＋ JSF EDITION",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機 K10＋ Pro",
+    "handle": "switchbot-robot-vacuum-cleaner-k10-pro",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-k10-pro",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/K5Z27J_D_2x_391c475d-162e-400c-bdac-9b0e57ec9a99.png?v=1765963021",
+    "imageAlt": "SwitchBot ロボット掃除機 K10＋ Pro",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機 K10+ Pro Combo/K20+Pro専用デュアル集塵ステーション交換用紙パック(4枚)",
+    "handle": "antibacterial-dustbag-for-k-pro-series",
+    "productUrl": "https://www.switchbot.jp/products/antibacterial-dustbag-for-k-pro-series",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/K10_Pro_Combo_Global_Amazon_Images_1600x1600_03_1x_05c4455d-eae9-4d0f-814a-85611da05bba.png?v=1733804161",
+    "imageAlt": "SwitchBot ロボット掃除機 K10+ Pro Combo/K20+Pro専用デュアル集塵ステーション交換用紙パック(4枚)",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機 K10+ 交換用フィルター",
+    "handle": "switchbot-filter-k10",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-filter-k10",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/725.webp?v=1716877899",
+    "imageAlt": "SwitchBot ロボット掃除機 K10+ 交換用フィルター",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機 K10+/K10+Pro/K10+Pro Combo/K20+Pro 交換用サイドブラシ(4個セット)",
+    "handle": "switchbot-sweeping-brush-k-series",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-sweeping-brush-k-series",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/fc433938851e825049e6be240901db37.webp?v=1732242055",
+    "imageAlt": "SwitchBot ロボット掃除機 K10+/K10+Pro/K10+Pro Combo/K20+Pro 交換用サイドブラシ(4個セット)",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機 K10＋Pro (整備済製品)",
+    "handle": "switchbot-robot-vacuum-cleaner-k10-pro-refurbished",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-k10-pro-refurbished",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/09_1.5x.webp?v=1765963021",
+    "imageAlt": "SwitchBot ロボット掃除機 K10＋Pro (整備済製品)",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機 K10＋Pro Combo",
+    "handle": "robot-vacuum-cleaner-k10-pro-combo",
+    "productUrl": "https://www.switchbot.jp/products/robot-vacuum-cleaner-k10-pro-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/333_2x_69ac3b2f-2f38-49ba-ae43-160c51b1b420.webp?v=1765963050",
+    "imageAlt": "SwitchBot ロボット掃除機 K10＋Pro Combo",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機 K10＋Pro Combo (整備済製品)",
+    "handle": "switchbot-robot-vacuum-cleaner-k10-pro-combo-refurbished",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-k10-pro-combo-refurbished",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/07_1.5x_1.webp?v=1765963050",
+    "imageAlt": "SwitchBot ロボット掃除機 K10＋Pro Combo (整備済製品)",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機 K10＋Pro Combo/K20+Pro コードレス掃除機交換用フィルターセット",
+    "handle": "filter-paper-set-for-k-pro-series",
+    "productUrl": "https://www.switchbot.jp/products/filter-paper-set-for-k-pro-series",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/K10_Pro_Combo_Global_Amazon_Images_1600x1600_04_1x_1489101a-23e9-4e96-a77a-974d38367d01.png?v=1733811290",
+    "imageAlt": "SwitchBot ロボット掃除機 K10＋Pro Combo/K20+Pro コードレス掃除機交換用フィルターセット",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機 K10+交換用メインブラシ",
+    "handle": "switchbot-rubber-brush-k10",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-rubber-brush-k10",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/1_e2214ea8-a992-44ac-a8a7-6423e3f95f7a.png?v=1725437112",
+    "imageAlt": "SwitchBot ロボット掃除機 K10+交換用メインブラシ",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機 K11＋",
+    "handle": "switchbot-robot-vacuum-cleaner-k11",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-k11",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/00_1.webp?v=1751447191",
+    "imageAlt": "SwitchBot ロボット掃除機 K11＋",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機 K11+ 交換用絡み防止サイドブラシ（4個セット）",
+    "handle": "switchbot-anti-tangle-side-brush-k11",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-anti-tangle-side-brush-k11",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/output_0def8b4a-0d57-4c10-8180-3d73fa0df82f.png?v=1755154635",
+    "imageAlt": "SwitchBot ロボット掃除機 K11+ 交換用絡み防止サイドブラシ（4個セット）",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機 K20＋Pro専用変換ブラケット",
+    "handle": "switchbot-robot-vacuum-cleaner-k20-pro-conversion-bracket",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-k20-pro-conversion-bracket",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/K20_Pro_2x_20908de8-febc-4d8c-b515-b54218f9ca5f.webp?v=1756976629",
+    "imageAlt": "SwitchBot ロボット掃除機 K20＋Pro専用変換ブラケット",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機 K20＋Pro用コードレス掃除機",
+    "handle": "switchbot-robot-vacuum-cleaner-k20-pro-cordless-vacuum-cleaner",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-k20-pro-cordless-vacuum-cleaner",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/2789_2x_859ded46-ac0b-4af8-ade2-dfa4732856ca.webp?v=1746693355",
+    "imageAlt": "SwitchBot ロボット掃除機 K20＋Pro用コードレス掃除機",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機 K20＋Pro用スタンド",
+    "handle": "switchbot-robot-vacuum-cleaner-k20-pro-stand",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-k20-pro-stand",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/2783_2x_a825027c-e327-467b-80e3-16bcbc048dbc.webp?v=1746697614",
+    "imageAlt": "SwitchBot ロボット掃除機 K20＋Pro用スタンド",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機 S1 Plus 交換用ダストバッグ（５個セット）（S1 Plus W非対応）",
+    "handle": "switchbot-robot-vacuum-s1-plus-replacement-part-dirt-disposal-bags",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-robot-vacuum-s1-plus-replacement-part-dirt-disposal-bags",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/20240322-105223.jpg?v=1711075961",
+    "imageAlt": "SwitchBot ロボット掃除機 S1 Plus 交換用ダストバッグ（５個セット）（S1 Plus W非対応）",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機 S1/S1 Plus W",
+    "handle": "switchbot-robot-vacuum-cleaner",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/output_1_e66dfed1-7fe9-415c-84f5-40f6bbd9ec22.webp?v=1705650488",
+    "imageAlt": "SwitchBot ロボット掃除機 S1/S1 Plus W",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機 床用洗剤",
+    "handle": "switchbot-floor-cleaning-solution",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-floor-cleaning-solution",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/x4JP_2x_1.webp?v=1716518296",
+    "imageAlt": "SwitchBot ロボット掃除機 床用洗剤",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機K10+ Pro 専用一年分アクセサリー 消耗品セット",
+    "handle": "switchbot-k10-pro-accessory",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-k10-pro-accessory",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/JP_M_1000x1000_5e53117d-0247-4b84-ad8f-7a586b130a6c.png?v=1720600538",
+    "imageAlt": "SwitchBot ロボット掃除機K10+ Pro 専用一年分アクセサリー 消耗品セット",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機K10+ 専用ゴムブラシ・サイドブラシセット",
+    "handle": "sweeping-brush-set-k10",
+    "productUrl": "https://www.switchbot.jp/products/sweeping-brush-set-k10",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/3106.webp?v=1774930711",
+    "imageAlt": "SwitchBot ロボット掃除機K10+ 専用ゴムブラシ・サイドブラシセット",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機K10+ 専用一年分アクセサリー 消耗品セット",
+    "handle": "switchbot-k10-accessory",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-k10-accessory",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/62fd61f08d3696c37dbc09c29c03c99a.webp?v=1708674965",
+    "imageAlt": "SwitchBot ロボット掃除機K10+ 専用一年分アクセサリー 消耗品セット",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機K11+ 専用一年分アクセサリー 消耗品セット",
+    "handle": "switchbot-1-year-use-replacement-kit-for-k11",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-1-year-use-replacement-kit-for-k11",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/output_2_2fbde829-f7ed-495e-8be8-58f341d991b8.png?v=1755152013",
+    "imageAlt": "SwitchBot ロボット掃除機K11+ 専用一年分アクセサリー 消耗品セット",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機S1シリーズ 消耗品セット 交換用部品",
+    "handle": "switchbot-robot-vacuum-replacement-part-dirt-disposal-bags",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-robot-vacuum-replacement-part-dirt-disposal-bags",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/9e6bf361be3c0038c6d8e0ea4dd0451a.jpg?v=1671442007",
+    "imageAlt": "SwitchBot ロボット掃除機S1シリーズ 消耗品セット 交換用部品",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBotロボット掃除機 K10+ Pro Combo/K20+Pro 専用一年分アクセサリー",
+    "handle": "1-year-use-replacement-kit-for-k-pro-series",
+    "productUrl": "https://www.switchbot.jp/products/1-year-use-replacement-kit-for-k-pro-series",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/JP_MK10_Pro_Combo_JP_Amazon_Images_1600x1600_04.jpg?v=1737024159",
+    "imageAlt": "SwitchBotロボット掃除機 K10+ Pro Combo/K20+Pro 専用一年分アクセサリー",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBotロボット掃除機 K11+ 交換用抗菌紙パック（4枚）",
+    "handle": "switchbot-antibacterial-dustbag-for-k11",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-antibacterial-dustbag-for-k11",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/output_1_dd4040cd-2a07-4299-a9ce-a8ae0fa39548.png?v=1755155088",
+    "imageAlt": "SwitchBotロボット掃除機 K11+ 交換用抗菌紙パック（4枚）",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBotロボット掃除機K10+ Pro 専用交換用紙パック（4枚）",
+    "handle": "antibacterial-dustbag-for-k-series",
+    "productUrl": "https://www.switchbot.jp/products/antibacterial-dustbag-for-k-series",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/K10_Pro_1x4_1x_e32a76d8-6a80-40c4-918a-719db9b17616.png?v=1737629946",
+    "imageAlt": "SwitchBotロボット掃除機K10+ Pro 専用交換用紙パック（4枚）",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBotロボット掃除機K10+ Pro/K10+Pro Combo/K20+Pro/K11+ 専用交換用フィルター（4個セット）",
+    "handle": "bin-filter-for-k-series",
+    "productUrl": "https://www.switchbot.jp/products/bin-filter-for-k-series",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/K10_ProAccessories_JPDTC_Filterx4_1x_91efb4af-c720-447d-bbe8-8acc2978001e.png?v=1729483705",
+    "imageAlt": "SwitchBotロボット掃除機K10+ Pro/K10+Pro Combo/K20+Pro/K11+ 専用交換用フィルター（4個セット）",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBotロボット掃除機K10+ Pro/K10+Pro Combo/K20+Pro/K11+ 専用絡み防止ブラシ",
+    "handle": "anti-tangle-rubber-brush-k-series",
+    "productUrl": "https://www.switchbot.jp/products/anti-tangle-rubber-brush-k-series",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/1x_1_fd1a6ae2-f865-45ad-8764-88be90ccdbc7.webp?v=1737630013",
+    "imageAlt": "SwitchBotロボット掃除機K10+ Pro/K10+Pro Combo/K20+Pro/K11+ 専用絡み防止ブラシ",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "SwitchBotロボット掃除機S10/S20 専用交換用ダストボックスフィルター（4個セット）",
+    "handle": "switchbot-dustbin-filter-for-floor-cleaning-robot",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-dustbin-filter-for-floor-cleaning-robot",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/1_2x_1_c6d8f765-8ed0-4e0b-9306-66888f2bb52c.webp?v=1755159316",
+    "imageAlt": "SwitchBotロボット掃除機S10/S20 専用交換用ダストボックスフィルター（4個セット）",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "無料プレゼント｜SwitchBot お掃除ロボットS10/S20 専用外付け水タンク 100%OFF",
+    "handle": "switchbot-robot-vacuum-cleaner-s10-mizutank-sca_clone_freegift",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-s10-mizutank-sca_clone_freegift",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/S10_2x_40916c03-a983-4dbb-9eb1-5b3f52b45c5f.png?v=1768811349",
+    "imageAlt": "無料プレゼント｜SwitchBot お掃除ロボットS10/S20 専用外付け水タンク 100%OFF",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "無料プレゼント｜SwitchBot お掃除ロボットS10/S20 防水シート 100%OFF",
+    "handle": "switchbot-robot-vacuum-s10-waterproofing-deaeration-sheet-sca_clone_freegift",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-robot-vacuum-s10-waterproofing-deaeration-sheet-sca_clone_freegift",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/20250728-122522_942f2582-0094-4e58-945c-58be8e5e7ee4.webp?v=1768548942",
+    "imageAlt": "無料プレゼント｜SwitchBot お掃除ロボットS10/S20 防水シート 100%OFF",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  },
+  {
+    "title": "無料プレゼント｜SwitchBot ロボット掃除機K10+ 専用ゴムブラシ・サイドブラシセット 100%OFF",
+    "handle": "sweeping-brush-set-k10-sca_clone_freegift",
+    "productUrl": "https://www.switchbot.jp/products/sweeping-brush-set-k10-sca_clone_freegift",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/3106_f05ea28b-768a-4955-9f55-5c2be8858f0b.webp?v=1776741762",
+    "imageAlt": "無料プレゼント｜SwitchBot ロボット掃除機K10+ 専用ゴムブラシ・サイドブラシセット 100%OFF",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト"
+  }
+]

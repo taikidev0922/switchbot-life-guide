@@ -1,0 +1,632 @@
+[
+  {
+    "id": "switchbot-official-text-scene-smart",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "general",
+    "type": "text",
+    "placement": ["article-cta", "sidebar"],
+    "categories": ["review", "compare", "howto", "trouble", "recommend"],
+    "label": "SwitchBot公式サイト",
+    "linkText": "家のあらゆるシーンを簡単スマート化！【SwitchBot公式サイト】",
+    "href": "https://px.a8.net/svt/ejp?a8mat=4B3G6K+7T0MB6+4W9U+5YRHE",
+    "impressionUrl": "https://www18.a8.net/0.gif?a8mat=4B3G6K+7T0MB6+4W9U+5YRHE",
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-official-banner-300x250-5zu29",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "general",
+    "type": "banner",
+    "placement": ["sidebar", "article-banner"],
+    "categories": ["review", "compare", "recommend"],
+    "label": "SwitchBot公式サイト 300x250",
+    "linkText": "SwitchBot公式サイト",
+    "href": "https://px.a8.net/svt/ejp?a8mat=4B3G6K+7T0MB6+4W9U+5ZU29",
+    "imageUrl": "https://www22.a8.net/svt/bgt?aid=260501420472&wid=001&eno=01&mid=s00000022845001007000&mc=1",
+    "imageWidth": 300,
+    "imageHeight": 250,
+    "impressionUrl": "https://www18.a8.net/0.gif?a8mat=4B3G6K+7T0MB6+4W9U+5ZU29",
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-official-banner-120x60-5zemp",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "general",
+    "type": "banner",
+    "placement": ["compact-banner"],
+    "categories": ["review", "compare", "howto", "trouble", "recommend"],
+    "label": "SwitchBot公式サイト 120x60",
+    "linkText": "SwitchBot公式サイト",
+    "href": "https://px.a8.net/svt/ejp?a8mat=4B3G6K+7T0MB6+4W9U+5ZEMP",
+    "imageUrl": "https://www27.a8.net/svt/bgt?aid=260501420472&wid=001&eno=01&mid=s00000022845001005000&mc=1",
+    "imageWidth": 120,
+    "imageHeight": 60,
+    "impressionUrl": "https://www10.a8.net/0.gif?a8mat=4B3G6K+7T0MB6+4W9U+5ZEMP",
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-official-banner-468x60-609ht",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "general",
+    "type": "banner",
+    "placement": ["article-banner"],
+    "categories": ["review", "compare", "howto", "trouble", "recommend"],
+    "label": "SwitchBot公式サイト 468x60",
+    "linkText": "SwitchBot公式サイト",
+    "href": "https://px.a8.net/svt/ejp?a8mat=4B3G6K+7T0MB6+4W9U+609HT",
+    "imageUrl": "https://www26.a8.net/svt/bgt?aid=260501420472&wid=001&eno=01&mid=s00000022845001009000&mc=1",
+    "imageWidth": 468,
+    "imageHeight": 60,
+    "impressionUrl": "https://www18.a8.net/0.gif?a8mat=4B3G6K+7T0MB6+4W9U+609HT",
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-official-text-simple",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "general",
+    "type": "text",
+    "placement": ["article-cta"],
+    "categories": ["review", "compare", "howto", "trouble", "recommend"],
+    "label": "SwitchBot公式サイト",
+    "linkText": "【SwitchBot公式サイト】",
+    "href": "https://px.a8.net/svt/ejp?a8mat=4B3G6K+7T0MB6+4W9U+60WN6",
+    "impressionUrl": "https://www13.a8.net/0.gif?a8mat=4B3G6K+7T0MB6+4W9U+60WN6",
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-official-banner-300x250-61jsh",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "general",
+    "type": "banner",
+    "placement": ["sidebar", "article-banner"],
+    "categories": ["howto", "trouble"],
+    "label": "SwitchBot公式サイト 300x250",
+    "linkText": "SwitchBot公式サイト",
+    "href": "https://px.a8.net/svt/ejp?a8mat=4B3G6K+7T0MB6+4W9U+61JSH",
+    "imageUrl": "https://www20.a8.net/svt/bgt?aid=260501420472&wid=001&eno=01&mid=s00000022845001015000&mc=1",
+    "imageWidth": 300,
+    "imageHeight": 250,
+    "impressionUrl": "https://www13.a8.net/0.gif?a8mat=4B3G6K+7T0MB6+4W9U+61JSH",
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-official-text-easy-install",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "general",
+    "type": "text",
+    "placement": ["article-cta"],
+    "categories": ["howto", "trouble"],
+    "label": "取付簡単・工事不要",
+    "linkText": "取付簡単・工事不要【SwitchBot公式サイト】",
+    "href": "https://px.a8.net/svt/ejp?a8mat=4B3G6K+7T0MB6+4W9U+60OXE",
+    "impressionUrl": "https://www10.a8.net/0.gif?a8mat=4B3G6K+7T0MB6+4W9U+60OXE",
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-official-text-easy-switch",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "general",
+    "type": "text",
+    "placement": ["article-cta"],
+    "categories": ["howto", "recommend"],
+    "label": "スマートホームにらくらくスイッチ",
+    "linkText": "スマートホームにらくらくスイッチ【SwitchBot公式サイト】",
+    "href": "https://px.a8.net/svt/ejp?a8mat=4B3G6K+7T0MB6+4W9U+60H7M",
+    "impressionUrl": "https://www15.a8.net/0.gif?a8mat=4B3G6K+7T0MB6+4W9U+60H7M",
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-official-text-best-seller",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "general",
+    "type": "text",
+    "placement": ["article-cta"],
+    "categories": ["review", "compare", "recommend"],
+    "label": "スマートホームのベストセラー",
+    "linkText": "「スマートホーム」のベストセラー【SwitchBot公式サイト】",
+    "href": "https://px.a8.net/svt/ejp?a8mat=4B3G6K+7T0MB6+4W9U+5YJRM",
+    "impressionUrl": "https://www16.a8.net/0.gif?a8mat=4B3G6K+7T0MB6+4W9U+5YJRM",
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-official-banner-320x50-601s1",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "general",
+    "type": "banner",
+    "placement": ["mobile-banner", "article-banner"],
+    "categories": ["review", "compare", "howto", "trouble", "recommend"],
+    "label": "SwitchBot公式サイト 320x50",
+    "linkText": "SwitchBot公式サイト",
+    "href": "https://px.a8.net/svt/ejp?a8mat=4B3G6K+7T0MB6+4W9U+601S1",
+    "imageUrl": "https://www25.a8.net/svt/bgt?aid=260501420472&wid=001&eno=01&mid=s00000022845001008000&mc=1",
+    "imageWidth": 320,
+    "imageHeight": 50,
+    "impressionUrl": "https://www10.a8.net/0.gif?a8mat=4B3G6K+7T0MB6+4W9U+601S1",
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-official-plain-mail-5yz77",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "general",
+    "type": "plain",
+    "placement": ["newsletter", "manual"],
+    "categories": ["review", "compare", "howto", "trouble", "recommend"],
+    "label": "SwitchBot公式サイト 紹介文",
+    "linkText": "SwitchBot公式サイトはこちらから",
+    "href": "https://px.a8.net/svt/ejp?a8mat=4B3G6K+7T0MB6+4W9U+5YZ77",
+    "copy": "取付簡単・工事不要でスマートホームにらくらくスイッチ！家のあらゆるシーンを簡単スマート化！",
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-official-banner-100x60-5z6wx",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "general",
+    "type": "banner",
+    "placement": ["compact-banner"],
+    "categories": ["review", "compare", "howto", "trouble", "recommend"],
+    "label": "SwitchBot公式サイト 100x60",
+    "linkText": "SwitchBot公式サイト",
+    "href": "https://px.a8.net/svt/ejp?a8mat=4B3G6K+7T0MB6+4W9U+5Z6WX",
+    "imageUrl": "https://www22.a8.net/svt/bgt?aid=260501420472&wid=001&eno=01&mid=s00000022845001004000&mc=1",
+    "imageWidth": 100,
+    "imageHeight": 60,
+    "impressionUrl": "https://www10.a8.net/0.gif?a8mat=4B3G6K+7T0MB6+4W9U+5Z6WX",
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-official-banner-234x60-5zmch",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "general",
+    "type": "banner",
+    "placement": ["article-banner", "compact-banner"],
+    "categories": ["review", "compare", "howto", "trouble", "recommend"],
+    "label": "SwitchBot公式サイト 234x60",
+    "linkText": "SwitchBot公式サイト",
+    "href": "https://px.a8.net/svt/ejp?a8mat=4B3G6K+7T0MB6+4W9U+5ZMCH",
+    "imageUrl": "https://www22.a8.net/svt/bgt?aid=260501420472&wid=001&eno=01&mid=s00000022845001006000&mc=1",
+    "imageWidth": 234,
+    "imageHeight": 60,
+    "impressionUrl": "https://www12.a8.net/0.gif?a8mat=4B3G6K+7T0MB6+4W9U+5ZMCH",
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-official-banner-468x60-614cx",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "general",
+    "type": "banner",
+    "placement": ["article-banner"],
+    "categories": ["review", "compare", "howto", "trouble", "recommend"],
+    "label": "SwitchBot公式サイト 468x60",
+    "linkText": "SwitchBot公式サイト",
+    "href": "https://px.a8.net/svt/ejp?a8mat=4B3G6K+7T0MB6+4W9U+614CX",
+    "imageUrl": "https://www23.a8.net/svt/bgt?aid=260501420472&wid=001&eno=01&mid=s00000022845001013000&mc=1",
+    "imageWidth": 468,
+    "imageHeight": 60,
+    "impressionUrl": "https://www19.a8.net/0.gif?a8mat=4B3G6K+7T0MB6+4W9U+614CX",
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-official-banner-320x50-61c2p",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "general",
+    "type": "banner",
+    "placement": ["mobile-banner", "article-banner"],
+    "categories": ["review", "compare", "howto", "trouble", "recommend"],
+    "label": "SwitchBot公式サイト 320x50",
+    "linkText": "SwitchBot公式サイト",
+    "href": "https://px.a8.net/svt/ejp?a8mat=4B3G6K+7T0MB6+4W9U+61C2P",
+    "imageUrl": "https://www29.a8.net/svt/bgt?aid=260501420472&wid=001&eno=01&mid=s00000022845001014000&mc=1",
+    "imageWidth": 320,
+    "imageHeight": 50,
+    "impressionUrl": "https://www16.a8.net/0.gif?a8mat=4B3G6K+7T0MB6+4W9U+61C2P",
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-official-banner-234x60-61ri9",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "general",
+    "type": "banner",
+    "placement": ["article-banner", "compact-banner"],
+    "categories": ["review", "compare", "howto", "trouble", "recommend"],
+    "label": "SwitchBot公式サイト 234x60",
+    "linkText": "SwitchBot公式サイト",
+    "href": "https://px.a8.net/svt/ejp?a8mat=4B3G6K+7T0MB6+4W9U+61RI9",
+    "imageUrl": "https://www24.a8.net/svt/bgt?aid=260501420472&wid=001&eno=01&mid=s00000022845001016000&mc=1",
+    "imageWidth": 234,
+    "imageHeight": 60,
+    "impressionUrl": "https://www12.a8.net/0.gif?a8mat=4B3G6K+7T0MB6+4W9U+61RI9",
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-k11-product-link-bwgdt",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "vacuum",
+    "productName": "SwitchBot ロボット掃除機 K11",
+    "type": "product-link",
+    "placement": ["article-product", "article-cta"],
+    "categories": ["review", "compare", "recommend"],
+    "label": "SwitchBot ロボット掃除機 K11 商品リンク",
+    "linkText": "SwitchBot ロボット掃除機 K11を公式サイトで確認する",
+    "a8": {
+      "mat": "4B3G6K+7T0MB6+4W9U+BWGDT",
+      "alt": "商品リンク",
+      "id": "4AlDpA4-g7-viq0k4B"
+    },
+    "goods": {
+      "ejp": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-k11",
+      "imu": "https://www.switchbot.jp/cdn/shop/files/00_1.webp?v=1751447191"
+    },
+    "rawHtml": "<span class=\"a8ad 4AlDpA4-g7-viq0k4B\"></span><script type=\"text/javascript\" src=\"//statics.a8.net/ad/ad.js\"></script><script type=\"text/javascript\">a8adscript('body').showAd({\"req\":{\"mat\":\"4B3G6K+7T0MB6+4W9U+BWGDT\",\"alt\":\"商品リンク\",\"id\":\"4AlDpA4-g7-viq0k4B\"},\"goods\":{\"ejp\":\"h\"+\"ttps://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-k11\",\"imu\":\"h\"+\"ttps://www.switchbot.jp/cdn/shop/files/00_1.webp?v=1751447191\"}});</script>",
+    "rel": "nofollow sponsored",
+    "notes": "A8 product link generated for SwitchBot Robot Vacuum Cleaner K11. Render with A8 script when product-link placement is supported."
+  },
+  {
+    "id": "switchbot-k10-pro-combo-product-link-bwgdt",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "vacuum",
+    "productName": "SwitchBot ロボット掃除機 K10+ Pro Combo",
+    "type": "product-link",
+    "placement": ["article-product", "article-cta"],
+    "categories": ["review", "compare", "recommend"],
+    "label": "SwitchBot ロボット掃除機 K10+ Pro Combo 商品リンク",
+    "linkText": "SwitchBot ロボット掃除機 K10+ Pro Comboを公式サイトで確認する",
+    "a8": {
+      "mat": "4B3G6K+7T0MB6+4W9U+BWGDT",
+      "alt": "商品リンク",
+      "id": "4AlDpA4-g7-viq0vp1"
+    },
+    "goods": {
+      "ejp": "https://www.switchbot.jp/products/robot-vacuum-cleaner-k10-pro-combo",
+      "imu": "https://www.switchbot.jp/cdn/shop/files/333_2x_69ac3b2f-2f38-49ba-ae43-160c51b1b420_700x700.webp?v=1765963050"
+    },
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-k10-pro-product-link-bwgdt",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "vacuum",
+    "productName": "SwitchBot ロボット掃除機 K10+ Pro",
+    "type": "product-link",
+    "placement": ["article-product", "article-cta"],
+    "categories": ["review", "compare", "recommend"],
+    "label": "SwitchBot ロボット掃除機 K10+ Pro 商品リンク",
+    "linkText": "SwitchBot ロボット掃除機 K10+ Proを公式サイトで確認する",
+    "a8": {
+      "mat": "4B3G6K+7T0MB6+4W9U+BWGDT",
+      "alt": "商品リンク",
+      "id": "4AlDpA4-g7-viq0Hat"
+    },
+    "goods": {
+      "ejp": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-k10-pro",
+      "imu": "https://www.switchbot.jp/cdn/shop/files/K5Z27J_D_2x_391c475d-162e-400c-bdac-9b0e57ec9a99_700x700.png?v=1765963021"
+    },
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-s20-product-link-bwgdt",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "vacuum",
+    "productName": "SwitchBot ロボット掃除機 S20",
+    "type": "product-link",
+    "placement": ["article-product", "article-cta"],
+    "categories": ["review", "compare", "recommend"],
+    "label": "SwitchBot ロボット掃除機 S20 商品リンク",
+    "linkText": "SwitchBot ロボット掃除機 S20を公式サイトで確認する",
+    "a8": {
+      "mat": "4B3G6K+7T0MB6+4W9U+BWGDT",
+      "alt": "商品リンク",
+      "id": "4AlDpA4-g7-viq0OVx"
+    },
+    "goods": {
+      "ejp": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-s20",
+      "imu": "https://www.switchbot.jp/cdn/shop/files/1000x1000_S20_2x_c1c16ac0-9354-4a23-ae19-9283713d0463_700x700.webp?v=1772765396"
+    },
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-s10-product-link-bwgdt",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "vacuum",
+    "productName": "SwitchBot ロボット掃除機 S10",
+    "type": "product-link",
+    "placement": ["article-product", "article-cta"],
+    "categories": ["review", "compare", "recommend"],
+    "label": "SwitchBot ロボット掃除機 S10 商品リンク",
+    "linkText": "SwitchBot ロボット掃除機 S10を公式サイトで確認する",
+    "a8": {
+      "mat": "4B3G6K+7T0MB6+4W9U+BWGDT",
+      "alt": "商品リンク",
+      "id": "4AlDpA4-g7-viq0WPg"
+    },
+    "goods": {
+      "ejp": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-s10",
+      "imu": "https://www.switchbot.jp/cdn/shop/files/S10_700x700.webp?v=1738918622"
+    },
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-k20-pro-product-link-bwgdt",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "vacuum",
+    "productName": "SwitchBot ロボット掃除機 K20+ Pro",
+    "type": "product-link",
+    "placement": ["article-product", "article-cta"],
+    "categories": ["review", "compare", "recommend"],
+    "label": "SwitchBot ロボット掃除機 K20+ Pro 商品リンク",
+    "linkText": "SwitchBot ロボット掃除機 K20+ Proを公式サイトで確認する",
+    "a8": {
+      "mat": "4B3G6K+7T0MB6+4W9U+BWGDT",
+      "alt": "商品リンク",
+      "id": "4AlDpA4-g7-viq15Jo"
+    },
+    "goods": {
+      "ejp": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-k20-pro",
+      "imu": "https://www.switchbot.jp/cdn/shop/files/K20_Pro_JP__1000x1000_1_2x_ab0bf455-f0ab-44de-ae37-c135c93b6c47_700x700.webp?v=1747195371"
+    },
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-k10-product-link-bwgdt",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "vacuum",
+    "productName": "SwitchBot ロボット掃除機 K10+",
+    "type": "product-link",
+    "placement": ["article-product", "article-cta"],
+    "categories": ["review", "compare", "recommend"],
+    "label": "SwitchBot ロボット掃除機 K10+ 商品リンク",
+    "linkText": "SwitchBot ロボット掃除機 K10+を公式サイトで確認する",
+    "a8": {
+      "mat": "4B3G6K+7T0MB6+4W9U+BWGDT",
+      "alt": "商品リンク",
+      "id": "4AlDpA4-g7-viq1cvb"
+    },
+    "goods": {
+      "ejp": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-k10",
+      "imu": "https://www.switchbot.jp/cdn/shop/files/K10__01_V3_2x_2f0f944c-797c-41c6-a850-97751c037217_700x700.png?v=1766460243"
+    },
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-robot-vacuum-cleaner-product-link-bwgdt",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "vacuum",
+    "productName": "SwitchBot ロボット掃除機",
+    "type": "product-link",
+    "placement": ["article-product", "article-cta"],
+    "categories": ["review", "compare", "recommend"],
+    "label": "SwitchBot ロボット掃除機 商品リンク",
+    "linkText": "SwitchBot ロボット掃除機を公式サイトで確認する",
+    "a8": {
+      "mat": "4B3G6K+7T0MB6+4W9U+BWGDT",
+      "alt": "商品リンク",
+      "id": "4AlDpA4-g7-viq1pM3"
+    },
+    "goods": {
+      "ejp": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner",
+      "imu": "https://www.switchbot.jp/cdn/shop/files/output_1_e66dfed1-7fe9-415c-84f5-40f6bbd9ec22_700x700.webp?v=1705650488"
+    },
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-aihub-product-link-bwgdt",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "hub",
+    "productName": "SwitchBot AI Hub",
+    "type": "product-link",
+    "placement": ["article-product", "article-cta"],
+    "categories": ["review", "compare", "howto", "recommend"],
+    "label": "SwitchBot AI Hub product link",
+    "linkText": "SwitchBot AI Hubを公式サイトで確認する",
+    "a8": {
+      "mat": "4B3G6K+7T0MB6+4W9U+BWGDT",
+      "alt": "商品リンク",
+      "id": "4AlDpA4-g7-viq1xTv"
+    },
+    "goods": {
+      "ejp": "https://www.switchbot.jp/products/switchbot-aihub",
+      "imu": "https://www.switchbot.jp/cdn/shop/files/AI_Hub_Global_Amazon_Images_1600X1600_01_1.5x_1_700x700.webp?v=1765539052"
+    },
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-hub3-product-link-bwgdt",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "hub",
+    "productName": "SwitchBot Hub 3",
+    "type": "product-link",
+    "placement": ["article-product", "article-cta"],
+    "categories": ["review", "compare", "howto", "recommend"],
+    "label": "SwitchBot Hub 3 product link",
+    "linkText": "SwitchBot Hub 3を公式サイトで確認する",
+    "a8": {
+      "mat": "4B3G6K+7T0MB6+4W9U+BWGDT",
+      "alt": "商品リンク",
+      "id": "4AlDpA4-g7-viq1LjT"
+    },
+    "goods": {
+      "ejp": "https://www.switchbot.jp/products/switchbot-hub3",
+      "imu": "https://www.switchbot.jp/cdn/shop/files/Hub_3_JP_1600x1600_02_1x_f13df486-6ca8-4398-8f4f-7e9636bfc49f_700x700.webp?v=1760694016"
+    },
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-hub2-product-link-bwgdt",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "hub",
+    "productName": "SwitchBot ハブ2",
+    "type": "product-link",
+    "placement": ["article-product", "article-cta"],
+    "categories": ["review", "compare", "howto", "recommend"],
+    "label": "SwitchBot Hub 2 product link",
+    "linkText": "SwitchBot ハブ2を公式サイトで確認する",
+    "a8": {
+      "mat": "4B3G6K+7T0MB6+4W9U+BWGDT",
+      "alt": "商品リンク",
+      "id": "4AlDpA4-g7-viq6BFw"
+    },
+    "goods": {
+      "ejp": "https://www.switchbot.jp/products/switchbot-hub2",
+      "imu": "https://www.switchbot.jp/cdn/shop/files/JP_Hub_2_2x_9a0ec3fb-beee-4124-8957-7de541b7eba2_700x700.webp?v=1745810078"
+    },
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-hub-mini-matter-product-link-bwgdt",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "hub",
+    "productName": "SwitchBot ハブミニ Matter対応",
+    "type": "product-link",
+    "placement": ["article-product", "article-cta"],
+    "categories": ["review", "compare", "howto", "recommend"],
+    "label": "SwitchBot Hub Mini Matter product link",
+    "linkText": "SwitchBot ハブミニ Matter対応を公式サイトで確認する",
+    "a8": {
+      "mat": "4B3G6K+7T0MB6+4W9U+BWGDT",
+      "alt": "商品リンク",
+      "id": "4AlDpA4-g7-viq6JXI"
+    },
+    "goods": {
+      "ejp": "https://www.switchbot.jp/products/switchbot-hub-mini-matter",
+      "imu": "https://www.switchbot.jp/cdn/shop/files/JP_Hub_mini_MSS_2x_b3644507-ffc1-4521-9944-2ffd1f6fb16c_700x700.webp?v=1752487769"
+    },
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-hub-mini-product-link-bwgdt",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "hub",
+    "productName": "SwitchBot ハブミニ",
+    "type": "product-link",
+    "placement": ["article-product", "article-cta"],
+    "categories": ["review", "compare", "howto", "recommend"],
+    "label": "SwitchBot Hub Mini product link",
+    "linkText": "SwitchBot ハブミニを公式サイトで確認する",
+    "a8": {
+      "mat": "4B3G6K+7T0MB6+4W9U+BWGDT",
+      "alt": "商品リンク",
+      "id": "4AlDpA4-g7-viq6ONH"
+    },
+    "goods": {
+      "ejp": "https://www.switchbot.jp/products/switchbot-hub-mini",
+      "imu": "https://www.switchbot.jp/cdn/shop/files/JP_Hub_mini_2x_a99b0529-4b12-a8ff-0accca1288e0_700x700.webp?v=1745810208"
+    },
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-bot-product-link-bwgdt",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "bot",
+    "productName": "SwitchBot ボット",
+    "type": "product-link",
+    "placement": ["article-product", "article-cta"],
+    "categories": ["review", "compare", "howto", "recommend"],
+    "label": "SwitchBot Bot product link",
+    "linkText": "SwitchBot ボットを公式サイトで確認する",
+    "a8": {
+      "mat": "4B3G6K+7T0MB6+4W9U+BWGDT",
+      "alt": "商品リンク",
+      "id": "4AlDpA4-g7-viq6UfE"
+    },
+    "goods": {
+      "ejp": "https://www.switchbot.jp/products/switchbot-bot?variant=46555311145135",
+      "imu": "https://www.switchbot.jp/cdn/shop/files/SwitchBot_Bot_Rechargeable_US_Amazon_Images_1600x1600_00_2x-10_700x700.webp?v=1771990763"
+    },
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-curtain3-product-link-bwgdt",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "curtain",
+    "productName": "SwitchBot カーテン3",
+    "type": "product-link",
+    "placement": ["article-product", "article-cta"],
+    "categories": ["review", "compare", "howto", "recommend"],
+    "label": "SwitchBot Curtain 3 product link",
+    "linkText": "SwitchBot カーテン3を公式サイトで確認する",
+    "a8": {
+      "mat": "4B3G6K+7T0MB6+4W9U+BWGDT",
+      "alt": "商品リンク",
+      "id": "4AlDpA4-g7-viq6ZiP"
+    },
+    "goods": {
+      "ejp": "https://www.switchbot.jp/products/switchbot-curtain3",
+      "imu": "https://www.switchbot.jp/cdn/shop/files/CurtainU3_02_v1_1_700x700.jpg?v=1753758964"
+    },
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-roller-shade-product-link-bwgdt",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "curtain",
+    "productName": "SwitchBot ロールスクリーン",
+    "type": "product-link",
+    "placement": ["article-product", "article-cta"],
+    "categories": ["review", "compare", "howto", "recommend"],
+    "label": "SwitchBot Roller Shade product link",
+    "linkText": "SwitchBot ロールスクリーンを公式サイトで確認する",
+    "a8": {
+      "mat": "4B3G6K+7T0MB6+4W9U+BWGDT",
+      "alt": "商品リンク",
+      "id": "4AlDpA4-g7-viq780Y"
+    },
+    "goods": {
+      "ejp": "https://www.switchbot.jp/products/switchbot-roller-shade",
+      "imu": "https://www.switchbot.jp/cdn/shop/files/rollershade_2x_1_700x700.webp?v=1732181582"
+    },
+    "rel": "nofollow sponsored"
+  },
+  {
+    "id": "switchbot-blind-tilt-product-link-bwgdt",
+    "provider": "a8",
+    "brand": "SwitchBot",
+    "product": "curtain",
+    "productName": "SwitchBot ブラインドポール",
+    "type": "product-link",
+    "placement": ["article-product", "article-cta"],
+    "categories": ["review", "compare", "howto", "recommend"],
+    "label": "SwitchBot Blind Tilt product link",
+    "linkText": "SwitchBot ブラインドポールを公式サイトで確認する",
+    "a8": {
+      "mat": "4B3G6K+7T0MB6+4W9U+BWGDT",
+      "alt": "商品リンク",
+      "id": "4AlDpA4-g7-viq7dXs"
+    },
+    "goods": {
+      "ejp": "https://www.switchbot.jp/products/switchbot-blind-tilt",
+      "imu": "https://www.switchbot.jp/cdn/shop/products/20230111-151335_700x700.jpg?v=1673422453"
+    },
+    "rel": "nofollow sponsored"
+  }
+]

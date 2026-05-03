@@ -1,0 +1,232 @@
+[
+  {
+    "title": "SwitchBot ハブ3",
+    "handle": "switchbot-hub3",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-hub3",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Hub_3_JP_1600x1600_02_1x_f13df486-6ca8-4398-8f4f-7e9636bfc49f.webp?v=1760694016",
+    "imageAlt": "SwitchBot ハブ3",
+    "category": "hub",
+    "vendor": "SwitchBot公式サイト",
+    "linkText": "SwitchBot ハブ3を公式サイトで確認する"
+  },
+  {
+    "title": "SwitchBot AIハブ",
+    "handle": "switchbot-aihub",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-aihub",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/AI_Hub_Global_Amazon_Images_1600X1600_01_1.5x_1.webp?v=1765539052",
+    "imageAlt": "SwitchBot AIハブ",
+    "category": "hub",
+    "vendor": "SwitchBot公式サイト",
+    "linkText": "SwitchBot AIハブを公式サイトで確認する"
+  },
+  {
+    "title": "SwitchBot ハブ2",
+    "handle": "switchbot-hub2",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-hub2",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/JP_Hub_2_2x_9a0ec3fb-beee-4124-8957-7de541b7eba2.webp?v=1745810078",
+    "imageAlt": "SwitchBot ハブ2",
+    "category": "hub",
+    "vendor": "SwitchBot公式サイト",
+    "linkText": "SwitchBot ハブ2を公式サイトで確認する"
+  },
+  {
+    "title": "SwitchBot ハブミニ(Matter対応)",
+    "handle": "switchbot-hub-mini-matter",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-hub-mini-matter",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/JP_Hub_mini_MSS_2x_b3644507-ffc1-4521-9944-2ffd1f6fb16c.webp?v=1752487769",
+    "imageAlt": "SwitchBot ハブミニ(Matter対応)",
+    "category": "hub",
+    "vendor": "SwitchBot公式サイト",
+    "linkText": "SwitchBot ハブミニ(Matter対応)を公式サイトで確認する"
+  },
+  {
+    "title": "SwitchBot ハブミニ",
+    "handle": "switchbot-hub-mini",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-hub-mini",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/JP_Hub_mini_2x_a99b0529-4ff5-4b12-a8ff-0accca1288e0.webp?v=1745810208",
+    "imageAlt": "SwitchBot ハブミニ",
+    "category": "hub",
+    "vendor": "SwitchBot公式サイト",
+    "linkText": "SwitchBot ハブミニを公式サイトで確認する"
+  },
+  {
+    "title": "SwitchBot ドアロックUltra 顔認証Proセット",
+    "handle": "switchbot-lock-ultra-vision-pro-combo",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-lock-ultra-vision-pro-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/KVPCombo_JP_AmazonImages_1600x1600_03_1x_91c747ed-0da0-45ca-bd01-3948c8f22c77.webp?v=1765507504",
+    "imageAlt": "SwitchBot ドアロックUltra 顔認証Proセット",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト",
+    "linkText": "SwitchBot ドアロックUltra 顔認証Proセットを公式サイトで確認する"
+  },
+  {
+    "title": "SwitchBot ドアロックUltra 指紋認証セット",
+    "handle": "switchbot-lock-ultra-touch-combo",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-lock-ultra-touch-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/58_2x_1.webp?v=1745466777",
+    "imageAlt": "SwitchBot ドアロックUltra 指紋認証セット",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト",
+    "linkText": "SwitchBot ドアロックUltra 指紋認証セットを公式サイトで確認する"
+  },
+  {
+    "title": "SwitchBot ロック Pro",
+    "handle": "switchbot-lock-pro",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-lock-pro",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Lock_Pro-US_JP_1x_9857bb06-dbb6-42b6-99c8-9a092a78f8d3.webp?v=1737688205",
+    "imageAlt": "SwitchBot ロック Pro",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト",
+    "linkText": "SwitchBot ロック Proを公式サイトで確認する"
+  },
+  {
+    "title": "SwitchBot ロックLite",
+    "handle": "switchbot-lock-lite",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-lock-lite",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/LockLite_JP_AmazonImages_1600x1600_0_2x_8.webp?v=1745921659",
+    "imageAlt": "SwitchBot ロックLite",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト",
+    "linkText": "SwitchBot ロックLiteを公式サイトで確認する"
+  },
+  {
+    "title": "SwitchBot ロック",
+    "handle": "switchbot-lock",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-lock",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/Lock-_1x_9d282c34-3cff-4b7f-ac8b-b84198b1704b.webp?v=1737688091",
+    "imageAlt": "SwitchBot ロック",
+    "category": "lock",
+    "vendor": "SwitchBot公式サイト",
+    "linkText": "SwitchBot ロックを公式サイトで確認する"
+  },
+  {
+    "title": "SwitchBot カーテン3",
+    "handle": "switchbot-curtain3",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-curtain3",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/CurtainU3_02_v1_1.jpg?v=1753758964",
+    "imageAlt": "SwitchBot カーテン3",
+    "category": "curtain",
+    "vendor": "SwitchBot公式サイト",
+    "linkText": "SwitchBot カーテン3を公式サイトで確認する"
+  },
+  {
+    "title": "SwitchBot カーテン2",
+    "handle": "switchbot-curtain",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-curtain",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbotkaten-switchbot-949690.jpg?v=1698820687",
+    "imageAlt": "SwitchBot カーテン2",
+    "category": "curtain",
+    "vendor": "SwitchBot公式サイト",
+    "linkText": "SwitchBot カーテン2を公式サイトで確認する"
+  },
+  {
+    "title": "SwitchBot ブラインドポール",
+    "handle": "switchbot-blind-tilt",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-blind-tilt",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/20230111-151335.jpg?v=1673422453",
+    "imageAlt": "SwitchBot ブラインドポール",
+    "category": "curtain",
+    "vendor": "SwitchBot公式サイト",
+    "linkText": "SwitchBot ブラインドポールを公式サイトで確認する"
+  },
+  {
+    "title": "SwitchBot 温湿度計Pro",
+    "handle": "switchbot-meter-pro",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-meter-pro",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/SwitchBot_Pro.webp?v=1725430821",
+    "imageAlt": "SwitchBot 温湿度計Pro",
+    "category": "sensor",
+    "vendor": "SwitchBot公式サイト",
+    "linkText": "SwitchBot 温湿度計Proを公式サイトで確認する"
+  },
+  {
+    "title": "SwitchBot 温湿度計",
+    "handle": "switchbot-meter",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-meter",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/products/switchbotwen-shi-du-ji-switchbot-1ge-953309.jpg?v=1645085847",
+    "imageAlt": "SwitchBot 温湿度計",
+    "category": "sensor",
+    "vendor": "SwitchBot公式サイト",
+    "linkText": "SwitchBot 温湿度計を公式サイトで確認する"
+  },
+  {
+    "title": "SwitchBot ボット",
+    "handle": "switchbot-bot",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-bot",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/SwitchBot_Bot_Rechargeable_US_Amazon_Images_1600x1600_00_2x-10.webp?v=1771990763",
+    "imageAlt": "SwitchBot ボット",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト",
+    "linkText": "SwitchBot ボットを公式サイトで確認する"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機 K11＋",
+    "handle": "switchbot-robot-vacuum-cleaner-k11",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-k11",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/00_1.webp?v=1751447191",
+    "imageAlt": "SwitchBot ロボット掃除機 K11＋",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト",
+    "linkText": "SwitchBot ロボット掃除機 K11＋を公式サイトで確認する"
+  },
+  {
+    "title": "SwitchBot ロボット掃除機 K10＋Pro Combo",
+    "handle": "robot-vacuum-cleaner-k10-pro-combo",
+    "productUrl": "https://www.switchbot.jp/products/robot-vacuum-cleaner-k10-pro-combo",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/333_2x_69ac3b2f-2f38-49ba-ae43-160c51b1b420.webp?v=1765963050",
+    "imageAlt": "SwitchBot ロボット掃除機 K10＋Pro Combo",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト",
+    "linkText": "SwitchBot ロボット掃除機 K10＋Pro Comboを公式サイトで確認する"
+  },
+  {
+    "title": "SwitchBot マルチタスク家庭用ロボットK20＋Pro",
+    "handle": "switchbot-robot-vacuum-cleaner-k20-pro",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-k20-pro",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/K20_Pro_JP__1000x1000_1_2x_ab0bf455-f0ab-44de-ae37-c135c93b6c47.webp?v=1747195371",
+    "imageAlt": "SwitchBot マルチタスク家庭用ロボットK20＋Pro",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト",
+    "linkText": "SwitchBot マルチタスク家庭用ロボットK20＋Proを公式サイトで確認する"
+  },
+  {
+    "title": "SwitchBot お掃除ロボットS20",
+    "handle": "switchbot-robot-vacuum-cleaner-s20",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-robot-vacuum-cleaner-s20",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/1000x1000_S20_2x_c1c16ac0-9354-4a23-ae19-9283713d0463.webp?v=1772765396",
+    "imageAlt": "SwitchBot お掃除ロボットS20",
+    "category": "vacuum",
+    "vendor": "SwitchBot公式サイト",
+    "linkText": "SwitchBot お掃除ロボットS20を公式サイトで確認する"
+  },
+  {
+    "title": "SwitchBot スマートテレビドアホン",
+    "handle": "switchbot-smart-video-doorbell",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-smart-video-doorbell",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/VideoDoorbell_JP_Amazon_Images_1600x2000_00_2x_9f279b34-4233-4154-857e-c31ba7cd839b.webp?v=1774411774",
+    "imageAlt": "SwitchBot スマートテレビドアホン",
+    "category": "bot",
+    "vendor": "SwitchBot公式サイト",
+    "linkText": "SwitchBot スマートテレビドアホンを公式サイトで確認する"
+  },
+  {
+    "title": "SwitchBot 見守りカメラPlus  5MP",
+    "handle": "switchbot-pan-tilt-cam-plus-5mp",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-pan-tilt-cam-plus-5mp",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/18_42ba5690-2bcf-44fd-8023-897acdd6cd55.webp?v=1712903582",
+    "imageAlt": "SwitchBot 見守りカメラPlus  5MP",
+    "category": "camera",
+    "vendor": "SwitchBot公式サイト",
+    "linkText": "SwitchBot 見守りカメラPlus  5MPを公式サイトで確認する"
+  },
+  {
+    "title": "SwitchBot プラグミニ（JP）",
+    "handle": "switchbot-plug-mini",
+    "productUrl": "https://www.switchbot.jp/products/switchbot-plug-mini",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0522/2458/9999/files/3396_1x_515460ae-4cf1-4cdd-8b7b-3483e7e72b49.webp?v=1764836422",
+    "imageAlt": "SwitchBot プラグミニ（JP）",
+    "category": "plug",
+    "vendor": "SwitchBot公式サイト",
+    "linkText": "SwitchBot プラグミニ（JP）を公式サイトで確認する"
+  }
+]

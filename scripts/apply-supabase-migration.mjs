@@ -1,0 +1,47 @@
+import fs from "fs/promises";
+import pg from "pg";
+
+await loadEnvFile(".env.local");
+
+const connectionString = stripSslMode(process.env.POSTGRES_URL_NON_POOLING || process.env.POSTGRES_URL);
+
+if (!connectionString) {
+  throw new Error("POSTGRES_URL_NON_POOLING or POSTGRES_URL is required.");
+}
+
+function stripSslMode(value) {
+  if (!value) return value;
+  const url = new URL(value);
+  url.searchParams.delete("sslmode");
+  return url.toString();
+}
+
+const sql = await fs.readFile("supabase/migrations/001_keyword_management.sql", "utf8");
+const client = new pg.Client({
+  connectionString,
+  ssl: {
+    rejectUnauthorized: false,
+  },
+});
+
+await client.connect();
+try {
+  await client.query(sql);
+  console.log("Supabase keyword management migration applied.");
+} finally {
+  await client.end();
+}
+
+async function loadEnvFile(path) {
+  const raw = await fs.readFile(path, "utf8").catch(() => "");
+  for (const line of raw.split(/\r?\n/)) {
+    if (!line || line.trimStart().startsWith("#")) continue;
+    const index = line.indexOf("=");
+    if (index === -1) continue;
+    const key = line.slice(0, index).trim();
+    const value = line.slice(index + 1).trim().replace(/^"|"$/g, "");
+    if (key && process.env[key] === undefined) {
+      process.env[key] = value;
+    }
+  }
+}
