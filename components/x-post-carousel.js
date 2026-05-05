@@ -1,13 +1,35 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 export function XPostCarousel({ embeds = [] }) {
   const [index, setIndex] = useState(0);
+  const frameRef = useRef(null);
   if (!embeds.length) return null;
 
   const current = embeds[index];
   const canMove = embeds.length > 1;
+
+  useEffect(() => {
+    if (!current?.html) return;
+
+    let attempts = 0;
+    let timeoutId;
+
+    function renderTweet() {
+      const widgets = window.twttr?.widgets;
+      if (widgets?.load && frameRef.current) {
+        widgets.load(frameRef.current);
+        return;
+      }
+
+      attempts += 1;
+      if (attempts < 12) timeoutId = window.setTimeout(renderTweet, 250);
+    }
+
+    renderTweet();
+    return () => window.clearTimeout(timeoutId);
+  }, [current?.html, index]);
 
   function move(step) {
     setIndex((value) => (value + step + embeds.length) % embeds.length);
@@ -15,8 +37,8 @@ export function XPostCarousel({ embeds = [] }) {
 
   return (
     <div className="x-carousel" aria-label="X投稿カルーセル">
-      <div className="x-carousel-frame">
-        <XPostCard embed={current} />
+      <div className="x-carousel-frame" ref={frameRef}>
+        <XPostCard embed={current} key={current.url || index} />
       </div>
 
       {canMove ? (
