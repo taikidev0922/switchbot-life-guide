@@ -67,7 +67,7 @@ export default async function ArticlePage({ params }) {
   });
 
   return (
-    <div className="page-shell">
+    <div className="page-shell article-page-shell">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify([buildArticleJsonLd(article), buildBreadcrumbJsonLd(article)]) }}

@@ -855,6 +855,22 @@ h3 {
     margin-top: 18px;
   }
 
+  .article-page-shell {
+    width: 100%;
+    margin-top: 0;
+  }
+
+  .article-page-shell .article-card {
+    border-right: 0;
+    border-left: 0;
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  .article-page-shell .sidebar {
+    padding: 0 12px;
+  }
+
   .home-hero h1 {
     font-size: clamp(1.82rem, 9vw, 2.2rem);
   }
