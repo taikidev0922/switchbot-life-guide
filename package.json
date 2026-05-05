@@ -7,7 +7,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "deploy": "vercel deploy --prod"
+    "deploy": "vercel deploy --prod",
+    "a8:csv": "node scripts/export-a8-placement-urls.mjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.105.1",
