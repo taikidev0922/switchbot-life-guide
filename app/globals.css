@@ -887,7 +887,9 @@ h3 {
   }
 
   .hero-image img {
-    aspect-ratio: 4 / 3;
+    height: auto;
+    aspect-ratio: auto;
+    object-fit: contain;
   }
 
   .article-card h1 {
