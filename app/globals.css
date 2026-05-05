@@ -402,6 +402,28 @@ h3 {
   box-shadow: var(--shadow);
 }
 
+.single-page {
+  width: min(860px, calc(100% - 2rem));
+  margin: 0 auto;
+  padding: clamp(1.5rem, 4vw, 3.5rem) 0;
+}
+
+.single-page .article-card {
+  padding: clamp(24px, 5vw, 52px);
+}
+
+.single-page .article-card h1,
+.single-page .article-card h2,
+.single-page .article-card p {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.single-page .article-card h2 {
+  margin-top: 2rem;
+  font-size: clamp(1.25rem, 2vw, 1.45rem);
+}
+
 .article-meta-row {
   display: flex;
   flex-wrap: wrap;

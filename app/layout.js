@@ -63,10 +63,10 @@ export default function RootLayout({ children }) {
 
         <footer className="site-footer">
           <nav aria-label="フッターナビ">
-            <a href="#">プライバシーポリシー</a>
-            <a href="#">アフィリエイト開示</a>
-            <a href="#">お問い合わせ</a>
-            <a href="#">サイトマップ</a>
+            <a href="/privacy">プライバシーポリシー</a>
+            <a href="/affiliate-disclosure">アフィリエイト開示</a>
+            <a href="/contact">お問い合わせ</a>
+            <a href="/sitemap.xml">サイトマップ</a>
           </nav>
           <p>
             {nicheConfig.disclosure}

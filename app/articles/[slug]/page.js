@@ -70,7 +70,7 @@ export default async function ArticlePage({ params }) {
     <div className="page-shell">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(buildArticleJsonLd(article)) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify([buildArticleJsonLd(article), buildBreadcrumbJsonLd(article)]) }}
       />
       <main className="main-content">
         <article className="article-card">
@@ -179,6 +179,29 @@ function buildArticleJsonLd(article) {
     },
     articleSection: article.category,
     keywords: [article.keyword, article.product, article.intent].filter(Boolean).join(", "),
+  };
+}
+
+function buildBreadcrumbJsonLd(article) {
+  const articleUrl = absoluteUrl(`/articles/${article.slug}`);
+
+  return {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: siteConfig.name,
+        item: siteConfig.url,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: article.title,
+        item: articleUrl,
+      },
+    ],
   };
 }
 

@@ -64,7 +64,12 @@ export default async function HomePage({ searchParams }) {
               {filteredArticles.map((article) => (
                 <Link className="article-list-card" href={articleHref(article.slug)} key={article.slug}>
                   <span className="article-thumb">
-                    <Image src={article.imageUrl} alt="" fill sizes="(max-width: 720px) 100vw, (max-width: 1020px) 50vw, 260px" />
+                    <Image
+                      src={article.imageUrl}
+                      alt={`${article.title}のアイキャッチ画像`}
+                      fill
+                      sizes="(max-width: 720px) 100vw, (max-width: 1020px) 50vw, 260px"
+                    />
                   </span>
                   <ArticleBadge category={article.category} />
                   <h3>{article.title}</h3>
