@@ -16,7 +16,9 @@ function stripSslMode(value) {
   return url.toString();
 }
 
-const sql = await fs.readFile("supabase/migrations/001_keyword_management.sql", "utf8");
+const migrationFiles = (await fs.readdir("supabase/migrations"))
+  .filter((file) => file.endsWith(".sql"))
+  .sort();
 const client = new pg.Client({
   connectionString,
   ssl: {
@@ -26,8 +28,11 @@ const client = new pg.Client({
 
 await client.connect();
 try {
-  await client.query(sql);
-  console.log("Supabase keyword management migration applied.");
+  for (const file of migrationFiles) {
+    const sql = await fs.readFile(`supabase/migrations/${file}`, "utf8");
+    await client.query(sql);
+    console.log(`Applied migration: ${file}`);
+  }
 } finally {
   await client.end();
 }
