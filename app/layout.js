@@ -1,4 +1,5 @@
 import "./globals.css";
+import Script from "next/script";
 import { siteConfig } from "../lib/site-config";
 import { nicheConfig } from "../lib/niche-config";
 
@@ -40,11 +41,13 @@ export const metadata = {
 };
 
 const navItems = nicheConfig.navItems;
+const gaMeasurementId = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID || "G-CLR2162CBK";
 
 export default function RootLayout({ children }) {
   return (
     <html lang={siteConfig.language || "ja"}>
       <body>
+        <GoogleAnalytics measurementId={gaMeasurementId} />
         <header className="site-header">
           <a className="site-logo" href="/" aria-label={`${siteConfig.name} トップへ`}>
             <span>{siteConfig.name}</span>
@@ -74,5 +77,26 @@ export default function RootLayout({ children }) {
         </footer>
       </body>
     </html>
+  );
+}
+
+function GoogleAnalytics({ measurementId }) {
+  if (!measurementId) return null;
+
+  return (
+    <>
+      <Script
+        src={`https://www.googletagmanager.com/gtag/js?id=${measurementId}`}
+        strategy="afterInteractive"
+      />
+      <Script id="google-analytics" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){window.dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', '${measurementId}');
+        `}
+      </Script>
+    </>
   );
 }
